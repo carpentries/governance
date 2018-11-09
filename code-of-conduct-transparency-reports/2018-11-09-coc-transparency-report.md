@@ -21,7 +21,7 @@ Of the two potential Code of Conduct matters:
 ## Summary of Reported Incidents
 
 - An instructor was reported for using language that was not welcoming and/or inclusive in a workshop. The Code of Conduct committee resolved this incident by issuing a reprimand. The instructor was responsive to feedback, and the CoC committee will be monitoring the survey results from the instructor’s upcoming workshops to verify that such behavior does not occur again.
-- An instructor was reported for using verbal comments which had the effect of excluding people on the basis of membership of a specific group in a workshop. The Code of Conduct committee resolved this issue by issuing a reprimand, requiring the reported individual to take a two month Termed Suspension, and that they receive and be responsive to coaching from staff on culturally responsive teaching.
+- An instructor was reported for using verbal comments which had the effect of excluding people on the basis of membership of a specific group in a workshop. The Code of Conduct committee resolved this issue by issuing a reprimand, requiring the reported individual to take a two month Termed Suspension, and requiring that the individual receive and be responsive to coaching from staff on culturally responsive teaching.
 
 ## Summary of Police Matters
 There were no police matters
