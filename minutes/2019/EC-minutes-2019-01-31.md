@@ -20,10 +20,10 @@
 
 **19/007 Routines around communication with the community**
 
-    *   Propose that after each meeting, we send some words for newsletter
-    *   Kate will begin with this meeting and sending news to Maneesha
-    *   Is there too much in the newsletter already? Should poll community?
-        *   Tracy - Sarah is looking into this
+*   Propose that after each meeting, we send some words for newsletter
+*   Kate will begin with this meeting and sending news to Maneesha
+*   Is there too much in the newsletter already? Should poll community?
+    *   Tracy - Sarah is looking into this
 
 **19/008 How much should Executive Council get involved with operational decisions?**
 
