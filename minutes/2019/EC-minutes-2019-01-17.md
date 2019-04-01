@@ -2,13 +2,8 @@
 
 **19/001 Review of Executive Council onboarding document(s)**
 
-* Draft documents linked to provide to new Executive Council members
+* We have documents to provide to new Executive Council members with releavnt information
 
-    * [Meeting conduct doc](https://docs.google.com/document/d/195omPpTOAnwNsUCqbH6S7Wpt9WDqU5joQKGMofTYDmg/edit)
-
-    * [Timeline](https://docs.google.com/document/d/1VuV8duKneYtGacZ7UXgnGwJeh63iGqqWLL1vXX-05hQ/edit)
-
-    * [Major goals for 2019-2020](https://docs.google.com/document/d/1Aa69ZlvSc1FTXkVJE2UkXZS_QvRpC4m9HD_9kF-qmu0/edit)
 
     * Need to develop a list of things to add new folks to and remove old folks from
 
@@ -18,7 +13,7 @@
 
     * Confidentiality is important - but we don’t currently have Executive Council confidentiality requirements
 
-        * **Action point **Need to implement confidentiality agreements for Executive Council members
+        * **Action point** Need to implement confidentiality agreements for Executive Council members
 
     * Issues with institutional memory - what if the next Executive Council, of two Executive Councils from now needs to know about something confidential we discussed.
 
@@ -51,4 +46,3 @@
     * We decided to postpone this to the first meeting of the new Council
 
 * The point made us aware of that we should include non-officer roles in our onboarding documents
-
