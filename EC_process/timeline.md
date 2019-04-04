@@ -3,6 +3,7 @@
 Additional tasks that don't fit into the monthly timeline below include:
 * in-person (face-to-face) meeting
 * reassessing the strategic plan
+* annual finance audit
 
 ## January
 * Review previous year’s minutes. Make sure all are approved and posted. 
