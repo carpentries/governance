@@ -8,6 +8,7 @@
 
 ## February
 * New EC officially takes over
+* Reassess meeting procedures, including methods for setting the agenda and taking minutes
 * Previous year’s financial report for new EC
 * Select new officers
 
