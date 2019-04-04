@@ -1,5 +1,9 @@
 # Executive Council Yearly Timeline
 
+Additional tasks that don't fit into the monthly timeline below include:
+* in-person (face-to-face) meeting
+* reassessing the strategic plan
+
 ## January
 * Review previous year’s minutes. Make sure all are approved and posted. 
 * Overlap meeting of old/new board
@@ -27,6 +31,7 @@
 ## August
 
 ## September
+* reassess bylaws (required in even-numbered years, technically due in November)
 
 ## October
 * 3rd quarter financial report
