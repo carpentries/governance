@@ -6,18 +6,21 @@ Additional tasks that don't fit into the monthly timeline below include:
 * annual finance audit
 
 ## January
-* Review previous year’s minutes. Make sure all are approved and posted. 
+* Review previous year’s minutes, ensuring all are approved and posted 
 * Overlap meeting of old/new board
 * Logistics of offboarding outgoing members
 * Logistics of onboarding new members
+* Solicit nominations for EC officers
+* Assess availability of EC Members for in-person meeting
 
 ## February
 * New EC officially takes over
 * Reassess meeting procedures, including methods for setting the agenda and taking minutes
-* Previous year’s financial report for new EC
+* Review previous year’s financial report for new EC
 * Select new officers
 
 ## March 
+* Annual financial report for community
 
 ## April
 * 1st quarter financial report
@@ -36,7 +39,6 @@ Additional tasks that don't fit into the monthly timeline below include:
 
 ## October
 * 3rd quarter financial report
-* Annual financial report for community
 * Assess desired skills for incoming EC members
 * Announce opening of self-nomination for EC
 * Solicit nominees for community awards
