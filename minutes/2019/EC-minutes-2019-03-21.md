@@ -1,4 +1,4 @@
-### Minutes Carpentries Executive Council meeting March 21, 2019**
+### Minutes Carpentries Executive Council meeting March 21, 2019
 
 ####  **19/18 Officer elections**
 
