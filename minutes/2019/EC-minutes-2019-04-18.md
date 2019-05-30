@@ -58,4 +58,4 @@
 
 **19/28 Budget:** working with funders and potential funders, still need to communicate with community about this (Tracy and Amy working on this, with Raniere?)
 
-**19/29 DataCamp blog post still forthcoming
+**19/29 DataCamp** blog post still forthcoming
