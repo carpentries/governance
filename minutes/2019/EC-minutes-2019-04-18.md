@@ -1,4 +1,4 @@
-### Minutes Carpentries Executive Council meeting April 18, 2019**
+### Minutes Carpentries Executive Council meeting April 18, 2019
 
 #### 19/21 Communication via GitHub
 
