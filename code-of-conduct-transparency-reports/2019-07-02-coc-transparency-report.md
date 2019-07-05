@@ -5,7 +5,7 @@
 
 ### Reports
 
-In the last eight months, the Code of Conduct committee has not received an incident report through the [Code of Conduct Incident Report Form](https://docs.google.com/forms/d/e/1FAIpQLSdi0wbplgdydl_6rkVtBIVWbb9YNOHQP_XaANDClmVNu0zs-w/viewform).
+In the last eight months, the Code of Conduct committee has not received an incident report.
 
 ### Potential Code of Conduct Breaches  
 There have been no **reported** Code of Conduct breaches in the last eight months. The Executive Council has approved a task force that will develop recommendtions for incidents that fall outside the scope of the Code of Conduct.
