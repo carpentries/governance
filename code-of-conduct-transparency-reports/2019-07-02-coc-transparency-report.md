@@ -8,7 +8,7 @@
 In the last eight months, the Code of Conduct committee has not received an incident report.
 
 ### Potential Code of Conduct Breaches  
-There have been no **reported** Code of Conduct breaches in the last eight months. The Executive Council has approved a task force that will develop recommendtions for incidents that fall outside the scope of the Code of Conduct.
+There have been no **reported** Code of Conduct breaches in the last eight months. However, discussions in the community and within the Code of Conduct committee have led the Executive Council to approve a task force that will develop recommendations for incidents that fall outside the scope of the Code of Conduct.
 
 ## Summary of Police Matters
 There were no police matters
@@ -17,7 +17,7 @@ There were no police matters
 The Carpentries Code of Conduct Documentation was revised for transparency and clarity 2019 February. Highlights from these revisions include:
 
 - Allowing reports to be filed anonymously.  
-- Explaining if and when Executive Council and Carpentries Staff would be made known of Code of Conduct incidents.  
+- Clarifying if and when Executive Council and Carpentries Staff would be made known of Code of Conduct incidents.  
 - Providing incident response checklists for in-person events.  
 - Specifying the audience for each of the Code of Conduct documents.  
 - Processes to ensure reports will maintain the reporter’s anonymity.  
