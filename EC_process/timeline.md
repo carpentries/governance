@@ -12,6 +12,7 @@ Additional tasks that don't fit into the monthly timeline below include:
 * Logistics of onboarding new members
 * Solicit nominations for EC officers
 * Assess availability of EC Members for in-person meeting
+* Publish Q4 Code of Conduct Transparency Report
 
 ## February
 * New EC officially takes over
@@ -24,6 +25,7 @@ Additional tasks that don't fit into the monthly timeline below include:
 
 ## April
 * 1st quarter financial report
+* Publish Q1 Code of Conduct Transparency Report
 
 ## May
 
@@ -31,6 +33,7 @@ Additional tasks that don't fit into the monthly timeline below include:
 
 ## July
 * 2nd quarter financial report
+* Publish Q2 Code of Conduct Transparency Report
 
 ## August
 
@@ -42,6 +45,7 @@ Additional tasks that don't fit into the monthly timeline below include:
 * Assess desired skills for incoming EC members
 * Announce opening of self-nomination for EC
 * Solicit nominees for community awards
+* Publish Q3 Code of Conduct Transparency Report
 
 ## November
 * Executive Director evaluation
