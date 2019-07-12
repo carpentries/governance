@@ -8,7 +8,7 @@
 Between 2018-11-09 and 2019-07-09, the Code of Conduct committee has not received an incident report, although the [Incident Reporting Form](https://docs.google.com/forms/d/e/1FAIpQLSdi0wbplgdydl_6rkVtBIVWbb9YNOHQP_XaANDClmVNu0zs-w/viewform) was submitted once with no information included.
 
 ### Potential Code of Conduct Breaches  
-There have been no officially reported Code of Conduct breaches in the last eight months. However, discussions in the community and within the Code of Conduct committee have led the Executive Council to approve a task force that will develop recommendations for incidents that fall outside the scope of the Code of Conduct committee. 
+There have been no officially reported Code of Conduct breaches in the last eight months. However, discussions in the community and within the Code of Conduct committee have led the Executive Council to approve a relevant task force.
 
 ## Summary of Police Matters
 There were no police matters
