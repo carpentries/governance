@@ -1,17 +1,19 @@
 # Executive Council Yearly Timeline
 
-Additional tasks that don't fit into the monthly timeline below include:
+Additional annual tasks:
 * in-person (face-to-face) meeting
 * reassessing the strategic plan
 * annual finance audit
 
 ## January
 * Review previous year’s minutes, ensuring all are approved and posted 
-* Overlap meeting of old/new board
+* Overlap meeting of outgoing/incoming members
 * Logistics of offboarding outgoing members
 * Logistics of onboarding new members
 * Solicit nominations for EC officers
-* Assess availability of EC Members for in-person meeting
+* Suggest annual goals for new EC
+* Assess availability of incoming EC Members for in-person meeting
+* Review Q4 financial report
 * Publish Q4 Code of Conduct Transparency Report
 
 ## February
@@ -19,12 +21,13 @@ Additional tasks that don't fit into the monthly timeline below include:
 * Reassess meeting procedures, including methods for setting the agenda and taking minutes
 * Review previous year’s financial report for new EC
 * Select new officers
+* Finalize annual goals for EC
 
 ## March 
 * Annual financial report for community
 
 ## April
-* 1st quarter financial report
+* Review Q1 financial report
 * Publish Q1 Code of Conduct Transparency Report
 
 ## May
@@ -32,28 +35,30 @@ Additional tasks that don't fit into the monthly timeline below include:
 ## June
 
 ## July
-* 2nd quarter financial report
+* Review Q2 financial report
 * Publish Q2 Code of Conduct Transparency Report
 
 ## August
 
 ## September
-* reassess bylaws (required in even-numbered years, technically due in November)
+* Assign individuals to reassess bylaws (required in even-numbered years, due in November)
 
 ## October
-* 3rd quarter financial report
 * Assess desired skills for incoming EC members
 * Announce opening of self-nomination for EC
 * Solicit nominees for community awards
+* Review Q3 financial report
 * Publish Q3 Code of Conduct Transparency Report
 
 ## November
 * Executive Director evaluation
 * Solicit nominations for appointed members
 * Nominations for EC elections close (at start of first community call)
-* Community call for EC nominees 
+* Community call for EC nominees
+* Vote on reassessed bylaws
 
 ## December
+* Announce community award winners
 * First full week (Monday-Friday) in December: elections open 
 * Selection of appointed members
 * Announcement of the new EC
