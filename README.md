@@ -6,6 +6,6 @@ This repository contains documentation on processes and meetings for the Carpent
 found in The Carpentries Handbook, describe the composition and main responsibilities of the EC. Current and past members, including which members are officers, can be found in the [Governance section](http://static.carpentries.org/governance/) of the Carpentries website.
 
 Documentation is organized as follows:
-* [EC_process](EC_process): information about onboarding/offboarding new EC members, yearly tasks/timeline, and specific details of how responsibilities for members and officers are implemented
+* [process](process): information about onboarding/offboarding new EC members, yearly tasks/timeline, and specific details of how responsibilities for members and officers are implemented
 * [code-of-conduct-transparency-reports](code-of-conduct-transparency-reports): public releases describing incidents reported to the Code of Conduct Committee
 * [minutes](minutes): formally approved minutes from monthly EC meetings
