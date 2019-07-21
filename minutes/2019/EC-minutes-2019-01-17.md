@@ -2,7 +2,7 @@
 
 **19/001 Review of Executive Council onboarding document(s)**
 
-* We have documents to provide to new Executive Council members with releavnt information
+* We have documents to provide to new Executive Council members with relevant information
 
 
     * Need to develop a list of things to add new folks to and remove old folks from
