@@ -65,6 +65,38 @@ office, and is willing to remain accessible to the Chair who accepts the positio
 
 ### Vice Chair
 
+The Vice-Chair’s primary roles are to perform the tasks of the Chair in the event of their absence and to ensure communication 
+of EC activities to the Carpentries community. General tasks are described in 
+[the bylaws](https://docs.carpentries.org/topic_folders/governance/bylaws.html#vice-chair). 
+The Vice-Chair’s responsibilities are to:
+
+* Understand the responsibilities of the Executive Council Chair and be able to perform these duties in the chair’s absence
+* Ensure the circulation of agendas, minutes, and other communications to the Executive Council
+* Ensure that any Executive Council members who have been given tasks know what it is they have been asked to do
+* Check that action has been taken following decisions at previous meetings
+* Serve as the primary liaison for communication between the community and the Executive Council. Primary tasks include 
+reporting from EC meetings for the newsletter, as well as monitoring GitHub issues and private email.
+
 ### Secretary
 
+The Secretary maintains records for the EC that are not related to either finances or staff. General tasks are described in 
+[the bylaws](https://docs.carpentries.org/topic_folders/governance/bylaws.html#secretary). 
+The Secretary’s responsibilities are to:
+
+* Ensure that someone is assigned to and takes minutes during all official EC meetings
+* Revise minutes of regularly occurring meetings to report decisions, policy, and passage of formal motions prior to 
+circulation among the EC for approval. 
+* Publish meeting minutes and policy decisions publicly for the community or in secure locations only accessible to the EC or 
+EC/ED. 
+
 ### Treasurer
+
+The Treasurer organizes and maintains financial records for EC oversight of The Carpentries operations. General tasks are 
+described in [the bylaws](https://docs.carpentries.org/topic_folders/governance/bylaws.html#treasurer). 
+The Treasurer’s responsibilities are to: 
+
+* Assist the Executive Director in preparing financial reports for both the Executive Council and the community at large
+* Assist the Executive Director in preparing the annual budget and presenting the budget to the Executive Council for approval
+* Ensure that an up-to-date report on the status of accounts can be given at each Council meeting.
+
+
