@@ -10,11 +10,8 @@ platforms.
 
 ## Responsibilities of all Executive Council Members
 
-The Carpentries Executive Council (EC) is an activist Council, which means that Council members are expected to volunteer 
-their time to participate actively in the Carpentries community in addition to their duties as EC members, and to be dedicated 
-to the Carpentries organization as a whole. The 
-[Carpentries Bylaws](https://docs.carpentries.org/topic_folders/governance/bylaws.html#executive-council) describe the formal 
-responsibilities of the EC from an 
+The [Carpentries Bylaws](https://docs.carpentries.org/topic_folders/governance/bylaws.html#executive-council) 
+describe the formal responsibilities of the EC from an 
 organizational level. This document describes the current implementation of the tasks described in the bylaws and represents 
 flexible guidelines that may be adapted as the EC deems necessary. In addition to documenting EC standard operating 
 procedures, it is also intended to clarify EC function for the broader community and help potential members understand the 
