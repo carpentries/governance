@@ -27,7 +27,7 @@ In practice, each EC member is responsible for the following general tasks:
 * Offering their expertise to help ensure the health and success of the organization
 * Actively participating in discussions about strategic and financial decisions
 * Providing feedback and voting on formal motions within one week of their posting
-* Attending (in person or by phone) at least 75% of the meetings held each year
+* Attending (in person or by phone/web-based) at least 75% of the meetings held each year
 * Dedicating at least three volunteer hours per week toward Carpentries activities (including meeting attendance)
 
 The specific commitments expected of EC members include monthly meetings (1-1.5 hours, via Zoom) and a once-yearly 
@@ -35,7 +35,7 @@ face-to-face meeting (expenses covered by The Carpentries). Minutes for these me
 approval by EC members. We may periodically schedule additional virtual meetings to address particular topics. Officers and EC 
 liaisons to other subcommittees may have additional commitments for meetings. Asynchronous commitments involve suggesting 
 agenda items for meetings, responding to email requests for opinions, and formal voting on resolutions (as issues in this 
-repository). 
+repository), and work resulting from being on a task force or committee representing the EC. 
 
 ## Officers
 
