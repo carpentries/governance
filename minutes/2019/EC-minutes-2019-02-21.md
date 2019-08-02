@@ -56,13 +56,13 @@ Same time in most places but in North America it will be an hour later (spring f
 
 Karen will make the Google calendar event UTC but same time slot
 
-**19/16 EC report for newsletter (Kate)**
+**19/16 EC report for newsletter**
 
 This week will report back about new Executive Council, sorting out logistical issues. In-person meeting is being planned. Goal to report back to newsletter is sharing what we are doing to encourage other members to participate.
 
 Any further additions to consider?
 
-**19/17 Asynchronous communication (Tracy added)**
+**19/17 Asynchronous communication**
 
 How do we communicate for things that happen between meetings? Normally we make decisions at meeting times but in reality decisions will need to be made in-between. One mechanism is the email list. Other is private github repo - for Executive Council and Tracy
 
