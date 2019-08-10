@@ -32,7 +32,7 @@ Should the Executive Council Liaison have voting rights on CoC resolutions? And 
 It was  mentioned to have the Liaison as tie breaker and as rule makers, should not vote. This is a division of power. I was also suggested to have one decision until the review of the CoC operation is finalized.
 **MOTION**: [https://github.com/carpentries-ec/conversations_ec_ed/issues/60](https://github.com/carpentries-ec/conversations_ec_ed/issues/60)
 
- **19/35 Minutes **
+ **19/35 Minutes**
 
    a. Our last public minutes to be posted is from January
 
