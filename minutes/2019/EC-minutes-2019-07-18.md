@@ -1,4 +1,4 @@
-### Minutes Carpentries Executive Council meeting July 18, 2019 {#minutes-carpentries-executive-council-meeting-july-18-2019}
+### Minutes Carpentries Executive Council meeting July 18, 2019 
 
 **19/ 43 EC Roles & Responsibilities document and EC communications** -- [issue 30](https://github.com/carpentries-ec/conversations_ec_ed/issues/30) 
 
