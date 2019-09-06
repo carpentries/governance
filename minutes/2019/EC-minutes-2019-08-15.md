@@ -6,7 +6,7 @@ Last time we were reviewing financial reports. Last time, we did not discuss wha
 
 
 
-### **19/50 In-person meeting update **
+### **19/50 In-person meeting update**
 
 - Have applied for funding for the in-person meeting. The final proposal has been submitted to fund in-person meeting. The figure is around 14,000 USD.  For people who want some extra days to work before and after the core meeting days, it is possible to include such days in the schedule.
 
@@ -16,7 +16,7 @@ Last time we were reviewing financial reports. Last time, we did not discuss wha
 
   
 
-### **19/51 Community Award **
+### **19/51 Community Award**
 
 We usually give these at the end of the year. We need to set the timeline and get a volunteer to write a blog post and collect names. There are nomination process forms for the community, staff and Executive Council. Then we check with people on the shortlist that they’re ok being nominated to receive the award. The nominations move forward with the people who were ok with receiving the award. We could give people the opportunity to opt-out rather than opt-in. The nominations will be open in November and selected in December.  We will have a time slot  during in-person meeting about the community award. Raniere and Josylnn will lead the award process.
 
@@ -28,7 +28,7 @@ Strategic planning is not accepted for this round of Stanford program. So, need 
 
 **Action item:** Karen and Kate working on putting together a plan for moving forward and Amy to review as requested.
 
-### **19/53 Election planning  and Communications: **
+### **19/53 Election planning  and Communications:**
 
 
 
