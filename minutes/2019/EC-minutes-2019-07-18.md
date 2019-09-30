@@ -80,4 +80,35 @@ One of our issues focused on idea around sponsorship. Amy noted that ACT can sup
         - May provide clarity on the status, so a PR for the web page would be good.
         - Sarah will be contacted by Tracy to do the updates.
 
-  
+### Non-verbal updates
+
+1. Finances
+   - Reporting Through: June 30, 2019
+   - General Balance: $212,739.13
+   - Sloan Balance: $158,640.49
+   - Current Bank Balance: $54,098.64
+   - Income Last Month: $76,302.28
+   - Expenses Last Month: $115,361.27
+   - Difference in income versus expenses last month: $ -39,058.12
+   - Income in the last 12 months: $1,163,798.95
+   - Expenses in the last 12 months: $1,334,249.01
+   - Difference in income versus expenses in the last 12 months: $ -170,431.53
+   - Length of current/projected operating expenses in the bank: ~2.2 Months
+   - Issues of concern or interest: --
+   - Big or different upcoming expenses or income: --
+   - Big or different expenses or income that have just occurred: --
+2. Budget 2020
+   - Elizabeth will draft something during Q3 so that we can vote during our in-person meeting. Raniere is the liason.
+3. Juan has volunteered to add README.md files to our public repo -- [issue 16](https://github.com/carpentries/executive-council-info/issues/16)
+4. Q1/Q2 Code of conduct Transparency Report ([PR](https://github.com/carpentries/executive-council-info/pull/15)) published on July 16 (email to be sent to discuss announcing this); also added these quarterly reports to our [yearly calendar](https://github.com/carpentries/executive-council-info/blob/master/process/timeline.md)  so we don't forget to do them
+5. Monthly Task Force on Communities
+6. See [issue](https://github.com/carpentries-ec/conversations_ec_ed/issues/63) as well as [draft of charter](https://docs.google.com/document/d/1jmiazewS5awDBYbgypvlJwX-mLsupDH5uxc0XboM438/edit)
+7. Monthly Task Force on Sponsorships
+   - Need to publish [https://docs.google.com/document/d/1VHYQ1Wh2ZniO4SPXlwXTSGFX0KDlLEY8qWjPtFfituk/edit](https://docs.google.com/document/d/1VHYQ1Wh2ZniO4SPXlwXTSGFX0KDlLEY8qWjPtFfituk/edit)
+8. Items to report back for newsletter
+   - publication of Q1/Q2 transparency report (hopefully)
+   - Stanford ACT
+   - Developing GitHub repo for Executive Council(meeting minutes)
+   - Outside Code of conduct task force
+9. In-person Meeting
+   - Juan and Mesfin, How long does take to get visas? 
