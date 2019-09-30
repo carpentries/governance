@@ -1,5 +1,4 @@
-### Minutes Carpentries Executive Council meeting May 16, 2019 {#minutes-carpentries-executive-council-meeting-may-16-2019}
-
+### Minutes Carpentries Executive Council meeting May 16, 2019 
 
 
 **19/30 Budget Report**
