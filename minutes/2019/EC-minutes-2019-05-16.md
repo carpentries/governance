@@ -40,4 +40,9 @@ It was  mentioned to have the Liaison as tie breaker and as rule makers, should 
 
    c. April minutes need approval: [issue #43](https://github.com/carpentries/executive-council/issues/43)
 
-      
+### Non-verbal updates 
+
+- Raniere will be camping in Australia in June. Raniere has on his calendar the Treasure meeting with Tracy but might not be available for the Executive Council meeting (mainly because of time zones).
+- In-person meeting (Amy) 
+  - I would like to discuss dates we could set aside later in the year if it turns out we have the budget for this. If we wait until we know about the budget, we will never be able to get dates.
+  - I will send out a poll for September/October
