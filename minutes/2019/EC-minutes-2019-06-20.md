@@ -40,8 +40,23 @@ Discussion pushed to next month because of low attendance and we are missing the
   - Elizabeth would like to step down from this, so we will be seeking a new volunteer for someone to step in.
   - Will not leave it vacant, but looking for a new volunteer sooner rather than later.
   - Karen might be able to do it, as it aligns with the task force.
-  - Karen as new liaison and have one of the new folk involved with the CoC task force so they can get involved and onboarded liaison.
+  - Karen as new liaison and have one of the new folk involved with the Code of Conduct task force so they can get involved and onboarded liaison.
 
 **19/42 Communication:**
 
-  - New CoCc liaison, CoCc liaison voting rights, CoC task force, sponsorship opportunities.
+  - New CoCc liaison, Code of Conduct liaison voting rights, Code of Conduct task force, sponsorship opportunities.
+  
+### Non-verbal updates
+
+
+
+1. Blog post on financial was published on May 28. Thanks to all who helped with that.
+2. **MOTION:** [Issue #13](https://github.com/carpentries/executive-council-info/issues/13) regarding Executive Council Code of Conduct liaison voting appears to have enough votes (5)
+3. Update on In-person meeting ([issue #62](https://github.com/carpentries-ec/conversations_ec_ed/issues/62)): 
+   1. Please pencil in on your calendars Nov. 4-5 in Europe (tentatively Utrecht) as the core meeting dates, with pre-meeting and post-meeting time for those who can extend
+4. Monthly Task Force on Communities
+   2. Status update from Karen on charter creation: see [issue](https://github.com/carpentries-ec/conversations_ec_ed/issues/63) as well as [draft of charter](https://docs.google.com/document/d/1jmiazewS5awDBYbgypvlJwX-mLsupDH5uxc0XboM438/edit) ; major update is that proposed scope is general community conflict (rather than a narrow scope focused on Code of Conduct level issues that happen outside of our spaces)
+5. Monthly Task Force on Sponsorships
+   3. No further progress has been made on this. Worked is planned for the end of the month.
+6. Status of application for Stanford ACT, due July 1 (see [issue #56](https://github.com/carpentries-ec/conversations_ec_ed/issues/56))
+   4. Tracy is drafting this, with Amy to review
