@@ -32,7 +32,7 @@ Strategic planning is not accepted for this round of Stanford program. So, need 
 
 
 
-- Members will read the EC Election Policy document and reported any problems they see with that
+- Members will read the Executive Council Election Policy document and reported any problems they see with that
 
   
 
@@ -41,3 +41,40 @@ For nominations, no longer need to submit that initial blog post as a pull reque
 We need to find a good way to get people for the Executive Council-elected position. It will require some work. We do have criteria/requests for people to serve on the Executive Council. 
 
 
+### Non-verbal updates 
+
+- Please approve June and July minutes
+  - [June minutes](https://github.com/carpentries/executive-council/issues/46)
+  - [July minutes](https://github.com/carpentries/executive-council/issues/47)
+- Status of README.md files for individual directories in our public repository (Juan, [issue 16](https://github.com/carpentries/executive-council-info/issues/16)) 
+  - Kate is working on communications by revamping the [public repository](https://github.com/carpentries/executive-council-info) and organizing the Google Drive folder. Further action items to come next month.
+- Monthly report from Task Force on Communities (Karen)
+  - Update from Tracy: [Task force charter.](https://github.com/carpentries/task-forces/blob/master/2019/2019-07-incidents-outside-cocc.md) This project is proceeding. Task force has been formed and [blog post](https://carpentries.org/blog/2019/08/collecting-incidents-community/) about the Task force and form to get feedback went up Tuesday. 3 responses so far. Have been sharing on main channels as well as through sub-communities and sub-committees. Will continue to ask for feedback through Aug 31. Report prepared by end of September.
+- Monthly report from Task Force on Sponsorships 
+  - Update from Raniere: We had one community member volunteering for the Task Force. I'm working to have a time our online meeting.
+- Monthly Report from Task Force on Values (Amy)
+  - Update from Tracy: [Project plan](https://docs.google.com/document/d/15i0ZGVkXH83eYXYGOTw2OR9MUnzkhHEpdNYPvyb1VtA/edit). This project is moving forward. In this quarter there are 3 questions being asked 3 weeks apart, and then getting community feedback. First question is out and feedback has been good so far on the github issue, and about 17 responses through the form. Second question goes out Aug 22. In Q4 Tracy, Serah and Amy will use this information and info from staff and EC to draft Values statements. 
+- Raniere visited Tracy in Davis on August 15, 2019 to discuss the Budget 2020 and Sponsorship.
+- Created a guide.md to provide easy access to reference or update links, and [put in as a PR](https://github.com/carpentries-ec/conversations_ec_ed/pull/69)
+- [Updates on Grants and Donations ](https://docs.google.com/document/d/1WuMftQmr_8Mlx4HLfTWbGYxgw2JG-KTFI-2b-w8Vdh4/edit#heading=h.5knyk0ay0psi)- created a document that will be updated that can be used for updates or references (also linked to in the guide)
+- Code of Conduct Committee: Kate talked with Karin to make sure things are proceeding smoothly 
+
+Finances:
+
+Raniere has received and reviewed the Q2 Quarterly report.
+
+- Financial Summary (August 2019)
+  - Reporting Through:July 31, 2019
+  - General Balance: $243,598.88
+  - Sloan Balance: $136,580.51
+  - Current Bank Balance: $107,018.37
+  - Income Last Month: $145,031.80
+  - Expenses Last Month: $118,193.00
+  - Difference in income versus expenses last month: $26,838.80
+  - Income in the last 12 months: $1,266,050.89
+  - Expenses in the last 12 months: $1,323,053.85
+  - Difference in income versus expenses in the last 12 months: $ -56,958.37
+  - Length of current/projected operating expenses in the bank: ~2.5 months
+  - Issues of concern or interest: Income over the last month has been relatively high, due to a high number of new and renewing memberships.
+  - Big or different upcoming expenses or income: --
+  - Big or different expenses or income that have just occurred: --
