@@ -19,7 +19,7 @@
 
   
 
-**19/56 [Values](https://github.com/carpentries-ec/conversations_ec_ed/issues/20) project update and encouraging participation **
+**19/56 [Values](https://github.com/carpentries-ec/conversations_ec_ed/issues/20) project update and encouraging participation**
 
 
 
