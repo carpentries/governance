@@ -47,7 +47,7 @@
 - Tracy will work with Kate on those details
 - Deadline for completion is our next meeting on October 21, 2019
 
-**19/59 [Vision](https://github.com/carpentries-ec/conversations_ec_ed/issues/70) discussion **
+**19/59 [Vision](https://github.com/carpentries-ec/conversations_ec_ed/issues/70) discussion**
 
 
 
