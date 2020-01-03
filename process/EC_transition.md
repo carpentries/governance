@@ -44,3 +44,4 @@ The following EC roles should be assigned at the February meeting (these require
 * Committee representatives (these may continue from previous terms as applicable):
   * 2 x 2 Committee representatives
   * CoC representative
+  * Representatives to Community Initiatives (CI)
