@@ -1,6 +1,6 @@
 ### Minutes Carpentries Executive Council meeting November 18, 2019 
 
-**19/63 Election activities for October **
+**19/63 Election activities for October**
 
 * 2 community-elected nominees so far, but form is still open
 * Kate working with Juan to get the ballot together
