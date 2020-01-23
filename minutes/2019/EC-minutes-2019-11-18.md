@@ -26,3 +26,6 @@
 * Initial phase: Tracy and Amy start up discussions with consultant, Karen, Elizabeth, Juan and Joslynn also volunteered for the search committee. Heidi is also available
 * **Decision**: we support the search committee deciding on bringing on a consultant for this process (within the available budget), deadline: two weeks
 * Tracy to draft a blog post for announcing her departure for late this week
+
+**Non-verbal updates**
+* October minutes have not yet been posted for review
