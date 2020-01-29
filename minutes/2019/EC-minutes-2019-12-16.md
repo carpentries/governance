@@ -1,4 +1,4 @@
-### Minutes Carpentries Executive Council meeting December 16, 2019 
+### Minutes Carpentries Executive Council Meeting December 16, 2019 
 
 **19/66 Elections: **
 
