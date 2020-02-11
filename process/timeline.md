@@ -5,6 +5,9 @@ Additional annual tasks:
 * reassessing the strategic plan
 * annual finance audit
 
+Additional recurring tasks:
+* every second year, starting 2020: revision or reapproval of the bylaws
+
 ## January
 * Review previous year’s minutes, ensuring all are approved and posted 
 * Overlap meeting of outgoing/incoming members
