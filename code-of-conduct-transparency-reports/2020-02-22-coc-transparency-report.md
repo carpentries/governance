@@ -10,8 +10,8 @@ Between 2019-10-10 and 2020-01-31, the Code of Conduct committee processed one f
 The Committee processed one formal incident report. The committee concluded that a breach of our 
 Code of Conduct had occurred. As a result, a private reprimand was issued to the person that was reported.
 
-### Summary of Policy Matters
-There were no policy matters.
+### Summary of Police Matters
+There were no police matters.
 
 ### Policy changes
 
