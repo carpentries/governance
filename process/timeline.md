@@ -28,6 +28,7 @@ Additional recurring tasks:
 
 ## March 
 * Annual financial report for community
+* Review and discussion of strategic plan activities
 
 ## April
 * Review Q1 financial report
@@ -36,6 +37,7 @@ Additional recurring tasks:
 ## May
 
 ## June
+* Review and discussion of strategic plan activities
 
 ## July
 * Review Q2 financial report
@@ -45,6 +47,7 @@ Additional recurring tasks:
 
 ## September
 * Assign individuals to reassess bylaws (required in even-numbered years, due in November)
+* Review and discussion of strategic plan activities
 
 ## October
 * Assess desired skills for incoming EC members
@@ -66,3 +69,4 @@ Additional recurring tasks:
 * Selection of appointed members
 * Announcement of the new EC
 * Start organizing dates for face-to-face meeting in first half of year
+* Review and discussion of strategic plan activities
