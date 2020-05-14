@@ -14,7 +14,7 @@
 
 * **Action point**: Karen will initiate revision with Mateusz and Ethan, presenting one or several revised version for discussion
 
-**053/18 Identify timeline for reviewing results from ****bylaws RFC**** and voting on bylaws **
+**053/18 Identify timeline for reviewing results from ****bylaws RFC**** and voting on bylaws**
 
 * All comments from Executive Council are resolved
 
