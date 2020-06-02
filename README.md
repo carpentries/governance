@@ -14,4 +14,5 @@ Documentation is organized as follows:
 * [process](process): information about onboarding/offboarding new EC members, yearly tasks/timeline, and specific details of how responsibilities for members and officers are implemented
 * [code-of-conduct-transparency-reports](code-of-conduct-transparency-reports): public releases describing incidents reported to the Code of Conduct Committee
 * [minutes](minutes): formally approved minutes from monthly EC meetings
+* Executive council motions are submitted as issues to this repository. All open and past motions can be found by [searching for 'motion' amongst the issues](https://github.com/carpentries/executive-council-info/issues?q=is%3Aissue+motion). 
 * [year-in-review](year-in-review): descriptions of main tasks accomplished by each year's Executive Council
