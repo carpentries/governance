@@ -9,11 +9,11 @@ The EC is welcoming Kari Jordan as new as new Director of the Carpentries.
 The voting is scheduled for November 2020 and the official timeline
 can be found in the [Carpentries
 Handbook](https://docs.carpentries.org/topic_folders/governance/bylaws.html#nominations-and-elections). The
-members of the EC will think which functions need to be filled and
+members of the EC will think which functions need to be filled by new members and
 point potential candidates to the blog post that will advertise the EC
 nomination.
 
-Action item: Generate an issue to find volunteers (Elizabeth )
+Action item: Generate an issue to find volunteers (Elizabeth)
 
 
 #### Report on the Online Carpentries Workshops: Project Pilot
@@ -35,17 +35,17 @@ offline workshops is an open question.
 #### Memberships and strategic grow of the community
 
 There have been questions how to increase the number of instructors in
-Latin america - funding for membership is harder to acquire there; As
+Latin America. Funding for membership is harder to acquire there. As
 we are currently shifting to a more online-based mode the instructore
 training might become easier/cheaper. There were cases were trainers
 volunteered to train instructor but the issue was not settled.
 
-- Action item: Kari will have look at the communication done regarding
-  it.
+Action item: Kari will have look at the communication done regarding
+it.
 
 #### Executive Council 2020 planning
 
-Lex presented the Executive Council 2020 planning and EC members were
+Lex presentes the Executive Council 2020 planning and EC members were
 volunteering to work on the following:
 - Strategic planning (Kari and Amy); approve at the June 2020 EC meeting
 - Succession planning (Amy, Cedric, Elizabeth); approve at the (TBD) 2020 EC meeting
@@ -61,7 +61,7 @@ volunteering to work on the following:
 - Rubric for Public Statements from The Carpentries (Joslynn
   (interested), Kari, Juan); approve at the May 2020 EC meeting
 
-The topic 2x2 committee was postponed.
+The topic 2x2 committee is postponed.
 
 #### Non-verbal updates
 
