@@ -1,5 +1,4 @@
 # Executive Council process and procedure
 
-- [Executive Council transition](EC_transition.md): information for onboarding (and offboarding) Executive Council members
-- [Roles and Responsibilities](roles_responsibilities.md): responsibilities of all EC members and description of officer positions
-- [Timeline](timeline.md): yearly schedule of recurring EC activities
+The information on this page has been moved to
+[The Carpentries Handbook pages on The Executive Council](https://docs.carpentries.org/topic_folders/governance/executive-council.html).
