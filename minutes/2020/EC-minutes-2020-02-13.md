@@ -1,6 +1,10 @@
 ## Minutes Carpentries Executive Council meeting February 13, 2020
 
-#### 20/09 Budget overview and Q&A
+Present: Amy, Konrad, Juan, Paula, Elizabeth Wickes, Elizabeth Williams, Kari, Lex, Cedric, Joslynn
+
+Regrets: Mesfin
+
+### 20/09 Budget overview and Q&A
 
 The goal for budget discussion was to get a context in an update based manner.
 
@@ -11,24 +15,24 @@ The goal for budget discussion was to get a context in an update based manner.
   * Overall, Quickbooks is being used to better understand what we are spending and ensure we are spending only which is allocated to the specific year.
   * **ACTION**: EWilliams will create a new budget to reflect the budget from 2019 to compare to projected actuals of 2020 budget. The group discussed consultant fees and EWilliams clarified they were covered under existing grants. **ACTION**: Juan will create an issue and EC members will asynchronous vote for approval.
 
-#### 20/10 Reassess/reminder of meeting procedures
+### 20/10 Reassess/reminder of meeting procedures
 With incoming new EC members we explained the meeting roles. Highlighting that Timekeeper can play the Gatekeeper role as well, currently The Gatekeeper plays the substitute role. Notekeeper needs to take note of **ACTION** points.
 
-#### 20/11 Q4 CoCc transparency report
+### 20/11 Q4 CoCc transparency report
 Briefly discussed and will proceed to continue working on this.
 
-#### 20/12 Call for any non-staff related 2020 goals for EC
+### 20/12 Call for any non-staff related 2020 goals for EC
 Discuss Ideas, concerns, etc.
 Group discussed that the EC can be slow with decisions. It was discussed that the EC should plan to collect discussion topics and prioritize tasks. Currently, there are a few threads open from last year and among the EC, there needs to be a spread of the workload among pairs.
 One priority is to work on 2x2 committee meetings with their rubric statements. Group discussed the effect of a new ED and the priorities of the goals. Which will all depend on the skillset of the new ED. **ACTION**: All EC members will read through current issues and prioritize which one they want to work on. This is to be done by the next meeting to discuss and spread the workload. Group discussed looking at a funding model for staff to be part of the strategic plan for other funding streams.
 
-#### 20/13 Advisory committee
+### 20/13 Advisory committee
 Not discussed.
 
-#### 20/14 By-laws update (due by end of year, per bylaws)
+### 20/14 By-laws update (due by end of year, per bylaws)
 Not discussed.
 
-#### 20/15 Non-verbal Updates
+### 20/15 Non-verbal Updates
 * Mailing list update: In google groups, there are two lists:
   - Executive-council has all of EC+ED, meant for internal discussion.
   - Carpentries-executive-council is being changed to have just EC (no ED) and meant for external communication to the EC.
