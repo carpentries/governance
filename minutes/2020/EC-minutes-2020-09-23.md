@@ -47,7 +47,7 @@ Present: Joslynn, Elizabeth, Juan, Lex, Amy, Konrad, Kari, Cedric
 ### 20/48 Election update
 
 *   We are a bit behind newly proposed timeline, but can catch up
-*   Based on process, if EC confirms election can be announced end of September minor confirmations needed
+*   Based on process, if Executive Council confirms election can be announced end of September minor confirmations needed
     *   Question - How many council elected positions will be needed
         *   3 council elected
     *   Question - specific skill - currently generally stated, specifics needed?
@@ -60,7 +60,7 @@ Present: Joslynn, Elizabeth, Juan, Lex, Amy, Konrad, Kari, Cedric
     *   November 22, 2020: nominations close
     *   Late November: Blog posts and videos from candidates for community-elected positions are available to the community, confirmation emails for voting status sent
     *   November 30 - December 9, 2020: voting is open for community-elected positions
-    *   December Executive Council Meeting - EC votes on Council-elected candidates announcements soon after
+    *   December Executive Council Meeting - Executive Council votes on Council-elected candidates announcements soon after
     *   January: Executive Council announces 2020 Executive Council
 *   Suggested to have email templates for encouraging someone to stand
 *   Idea to reach out to previous nominees not elected to self-nominate again

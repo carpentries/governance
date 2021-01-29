@@ -35,7 +35,7 @@ Apologies: Mesfin
         *   Decide / vote
         *   Advise
         *   Be informed of
-    *   The exact formal process is not always obvious and clear; questions frequently came up during our meetings as to whether the EC needed to vote on a particular issue or not.
+    *   The exact formal process is not always obvious and clear; questions frequently came up during our meetings as to whether the Executive Council needed to vote on a particular issue or not.
     *   Having a rough guideline for the 90% of the cases would help core team and others
     *   Some examples: Public statements; who we should collaborate with / get donations from
     *   Difference between governance and strategy

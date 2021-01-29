@@ -13,7 +13,7 @@
 * Succession planning should be a deliberate, sustained, and on-going activity - not a one-time effort -- involving both the identification and advancement of individuals within our organization and individuals from outside The Carpentries
 
 ### 20/44 Executive Council 2020 project planning progress
-* Each project group should review and report its output on a monthly basis; we will revise all projects next EC meeting
+* Each project group should review and report its output on a monthly basis; we will revise all projects next Executive Council meeting
 
 ### Non-verbal updates
 

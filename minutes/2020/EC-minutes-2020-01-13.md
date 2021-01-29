@@ -26,17 +26,17 @@ Regrets: Raniere, Mesfin
 
 * Slate to be assembled in January and voted on at February meeting
 * Current Treasurer and Vice-Chair will not be at the February meeting
-* 2020 EC members should look at roles, contact current officers with questions
+* 2020 Executive Council members should look at roles, contact current officers with questions
 
 
 ### 20/03 Code of Conduct(CoC) committee issues
 
 
-*  A new CoC liaison will be needed as Karen is our liaison and she will no longer be on the EC. Elizabeth has agreed to step in in the interim. After this meeting, Konrad agreed to officially be the liaison when his term starts. Elizabeth and Konrad will discuss details of the switchover.
+*  A new CoC liaison will be needed as Karen is our liaison and she will no longer be on the Executive Council. Elizabeth has agreed to step in in the interim. After this meeting, Konrad agreed to officially be the liaison when his term starts. Elizabeth and Konrad will discuss details of the switchover.
 *  Do we want to review/approve Code of Conduct(CoC) committee’s governance documents?
    * Chair of Code of Conduct(CoC) committee has asked for us to review the documents
    * We don’t review similar documents for other committees
-   * Given the new nature of these governance documents for each committee and how connected CoC is with the EC, they leadership wanted to act cautiously and not presume that we didn't want to review them.
+   * Given the new nature of these governance documents for each committee and how connected CoC is with the Executive Council, they leadership wanted to act cautiously and not presume that we didn't want to review them.
    * Need to communicate and specify how the Executive Council delegates power: should we update our governance documents? Communicate with the Code of Conduct(CoC) committee? All operational decisions should be the responsibility of the individual committees.
    * ACTION: Karen will communicate with the committee to let them know they’re able to conduct their own actions and that we don’t feel the need to approve their governance documents
 *  We are due for a Code of Conduct(CoC) transparency report for Q4
@@ -80,6 +80,6 @@ Regrets: Raniere, Mesfin
 ### Non-verbal updates
 
 *   [November minutes](https://github.com/carpentries/executive-council/issues/51) have been approved but need to be posted in the public repo.
-*   December minutes have not been posted for EC approval yet.
-*   last year, the agenda/minutes document ended with the December 2018 meeting and the 2019 document (this document) started with the January 2019 meeting (even though the EC runs from February 1st - January 31st). It was suggested we move the January 2020 agenda/minutes to [the 2020 document](https://docs.google.com/document/d/1Y_VAdxHwy6nIl_ueG4goMk_B_3gNfK0-eSnkyWE84CY/edit) (after the meeting) for consistency.
-*   Documentation for EC information has been revamped; see [EC Guide](https://github.com/carpentries-ec/conversations_ec_ed/blob/master/guide.md) for more information
+*   December minutes have not been posted for Executive Council approval yet.
+*   last year, the agenda/minutes document ended with the December 2018 meeting and the 2019 document (this document) started with the January 2019 meeting (even though the Executive Council runs from February 1st - January 31st). It was suggested we move the January 2020 agenda/minutes to [the 2020 document](https://docs.google.com/document/d/1Y_VAdxHwy6nIl_ueG4goMk_B_3gNfK0-eSnkyWE84CY/edit) (after the meeting) for consistency.
+*   Documentation for Executive Council information has been revamped; see [Executive Council Guide](https://github.com/carpentries-ec/conversations_ec_ed/blob/master/guide.md) for more information

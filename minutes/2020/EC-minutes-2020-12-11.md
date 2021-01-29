@@ -2,7 +2,7 @@
 
 Present: Amy, Konrad, Kari, Elizabeth, Juan, Talisha, Cedric
 
-### 20/57 Talisha reviewed the 2021 Carpentries Budget with the EC
+### 20/57 Talisha reviewed the 2021 Carpentries Budget with the Executive Council
 
 *   Review current bank balance, general budget, future projections.
 *   The team has budgeted to bring in 55% less revenue in 2021 to account for new team member ramp up and grants that are ending

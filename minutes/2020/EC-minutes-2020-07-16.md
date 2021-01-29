@@ -3,7 +3,7 @@
 **Present:** Juan, Konrad, Kari, Elizabeth, Amy, Cedric
 
 ### 20/36 Approving The Carpentries Committee Policy
-* We were asked for feedback for the committee and task force guidelines.  Everyone needs to review and provide feedback.  [Issue 43](https://github.com/carpentries/executive-council-info/issues/43) in the public EC repo is ready for voting (the committee policy)
+* We were asked for feedback for the committee and task force guidelines.  Everyone needs to review and provide feedback.  [Issue 43](https://github.com/carpentries/executive-council-info/issues/43) in the public Executive Council repo is ready for voting (the committee policy)
 * The motion was approved. A Pull Request for the updating the bylaws accordingly will be prepared
 
 ### 20/37 Electing a new Secretary for the rest of the 2020 term
@@ -23,15 +23,15 @@
     * Goals of the meeting: Review fundraising goal, develop donation acceptance policy, brainstorm activities to build into capacity building plan.
     * Mostly working on brainstorming about fundraising activities that would be relevant for our community activities that are beyond what we currently do.
 * Rubric for Public Statements from The Carpentries
-    * There’s a project plan available now.  They are trying to create a rubric that is value driven to judge future needs on. Kari and Juan are the current reps for the EC for any drafting needs.  They will be getting community engagement for revisions.
+    * There’s a project plan available now.  They are trying to create a rubric that is value driven to judge future needs on. Kari and Juan are the current reps for the Executive Council for any drafting needs.  They will be getting community engagement for revisions.
     * Everyone please read the project plan.
 * Setting direction for growth in new regions
     * Brainstorming meeting happened to document how things have worked in previous regions and countries.  Currently working through things in Germany, looking toward it as a pilot or case study.  We want to avoid having a regional coordinator in every single country.  We need to draft guidelines for what factors (eg money to cover it, number of trainers, number of workshops, etc.) should be used to evaluate moving ahead with specific regional growth areas.  There is some core team work coming up soon to review the regional coordinator program.
 
 ### 20/40 HPC Carpentry
-* They have a meeting during Carpentry Con about their work and are interested in joining as a Lesson Program. They are inviting someone from the EC to attend their session.  Several members volunteer to sit in.
+* They have a meeting during Carpentry Con about their work and are interested in joining as a Lesson Program. They are inviting someone from the Executive Council to attend their session.  Several members volunteer to sit in.
 
 ### 20/41 NFDI - National Research Data Infrastructure
 * A new RDM center within Germany.  For life sciences.  They are making standards and need training. How can we do this, what is the process.
-* General interest and other commentary from the EC.
+* General interest and other commentary from the Executive Council.
 * Concern generally how we can provide support and other pathways for others to get Carpentries involved with other grants.

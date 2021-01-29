@@ -6,11 +6,11 @@ Apologies: Juan, Elizabeth
 
 
 ### 20/49 Revisiting the Overview of strategic plan roadmap
-Discussion of the EC Specific Objective from the 2020-2025 Strategic
+Discussion of the Executive Council Specific Objective from the 2020-2025 Strategic
 Plan and the topic to establish an Advisory Council for The
 Carpentries that will meet biannually to advise the Executive Council
 regarding strategic planning, finances, governance, and other relevant
-topics. It should be 6 - 7 external members, inviting the EC to get
+topics. It should be 6 - 7 external members, inviting the Executive Council to get
 involved. So far 2 volunteers are available. The aim is to get people
 with more background in board work. Planned are ~2 meetings a year,
 plus some other extra time.
@@ -22,7 +22,7 @@ review this part. The plan will be further adapted over the years.
 ### 20/50 Bylaws revision, second and final set of amendments
 Motion for the second and final set of amendments. The bylaws revision
 team proposes to close some of the other issues without any
-amendments, and leave two smaller ones for the next EC.
+amendments, and leave two smaller ones for the next Executive Council.
 
 ### 20/51 Rubric for decision making transparency
 - As we are a consensus based organisation it sometimes can be hard to
@@ -41,19 +41,19 @@ amendments, and leave two smaller ones for the next EC.
 ### 20/53 Who should the Carpentries align ourselves with?
 - Start of the discussion in an GitHub issue about the question who
   The Carpentries should align with
-- One question is if the EC should decide this
+- One question is if the Executive Council should decide this
 - Example: Hootsuite which we use but which now started a collaboration
   with ICE; Similar issues with GitHub;
 - Which values do we look for in partnering with one organisation? It
   is tricky when we go and seek partners internationally.
-- Similar question is coming up. Which kind of input does the EC have
+- Similar question is coming up. Which kind of input does the Executive Council have
   and how do we apply them in the decision making?
 - We have the CoC that helps
 - Suggested to have a Values/Ethics Committee (an extra group outside
-  of the EC) to revisit issues from time to time and advise the EC and
+  of the Executive Council) to revisit issues from time to time and advise the Executive Council and
   Core team about new partnerships. Not clear so far who will decide
   in the end.
-- Suggestion: Task for the next EC (starting 2021)
+- Suggestion: Task for the next Executive Council (starting 2021)
 
 ### 20/54 2021 working group plans
 - the transition planning went well
@@ -71,7 +71,7 @@ A placeholder document was created that should be revisited next term.
 
 ### 20/55 Finalising the minutes of the meetings since February
 - Several minutes are not yet published
-- Each EC member will take the minutes of one month and prepare to
+- Each Executive Council member will take the minutes of one month and prepare to
   publish them
 - Action item: Lex will coordinate
 
