@@ -8,6 +8,7 @@ Present: Juan, Konrad, Kari, Elizabeth, Amy, Cedric, Lex
 * Proposal to use the Executive Council calendar to track leave taking by the Executive Council.
 * Only input time if you are on leave for more than 3 days.
 * Place leave in the calendar as appointments and not events/meetings.
+
 ### 20/17 General Updates (Kari)
 1. Coronavirus
     1. Meeting this Thursday (3/19) to go over what the essential and non-essential work is that needs to be done by the Carpentries Core Team
