@@ -31,7 +31,6 @@ Regrets: Raniere, Mesfin
 
 ### 20/03 Code of Conduct(CoC) committee issues
 
-
 *  A new CoC liaison will be needed as Karen is our liaison and she will no longer be on the Executive Council. Elizabeth has agreed to step in in the interim. After this meeting, Konrad agreed to officially be the liaison when his term starts. Elizabeth and Konrad will discuss details of the switchover.
 *  Do we want to review/approve Code of Conduct(CoC) committee’s governance documents?
    * Chair of Code of Conduct(CoC) committee has asked for us to review the documents
@@ -44,8 +43,6 @@ Regrets: Raniere, Mesfin
 
 
 ### 20/04  Executive Council in-person meeting
-
-
 
 * Last year we met quite late, it would be better to meet sooner this year
 * Would be optimal to have new Executive Director available to meet
@@ -72,6 +69,7 @@ Regrets: Raniere, Mesfin
 * Current meeting roles include facilitator, notekeeper, and timekeeper
 * Gatekeeper would be good to maintain moving forward with a new Executive Council, with folks who may not always feel comfortable speaking up
 
+
 ### 20/08 Thanks to outgoing Executive Council members
 
 * Kate, Karen, and Raniere!
@@ -79,7 +77,7 @@ Regrets: Raniere, Mesfin
 
 ### Non-verbal updates
 
-*   [November minutes](https://github.com/carpentries/executive-council/issues/51) have been approved but need to be posted in the public repo.
-*   December minutes have not been posted for Executive Council approval yet.
-*   last year, the agenda/minutes document ended with the December 2018 meeting and the 2019 document (this document) started with the January 2019 meeting (even though the Executive Council runs from February 1st - January 31st). It was suggested we move the January 2020 agenda/minutes to [the 2020 document](https://docs.google.com/document/d/1Y_VAdxHwy6nIl_ueG4goMk_B_3gNfK0-eSnkyWE84CY/edit) (after the meeting) for consistency.
-*   Documentation for Executive Council information has been revamped; see [Executive Council Guide](https://github.com/carpentries-ec/conversations_ec_ed/blob/master/guide.md) for more information
+* November minutes have been approved but need to be posted in the public repo.
+* December minutes have not been posted for Executive Council approval yet.
+* last year, the agenda/minutes document ended with the December 2018 meeting and the 2019 document (this document) started with the January 2019 meeting (even though the Executive Council runs from February 1st - January 31st). It was suggested we move the January 2020 agenda/minutes to the 2020 document (after the meeting) for consistency.
+* Documentation for Executive Council information has been revamped; see Executive Council Guide for more information
