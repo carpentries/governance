@@ -30,5 +30,5 @@ Present: Amy, Konrad, Kari, Elizabeth, Juan, Talisha, Cedric
 *   Juan has recommended changes to the election procedures to make it much more efficient for next year to help understand who does what and when.
 *   The Executive Council voted via google form for council elected positions.
     *    All candidates were elected unanimously.
-*    We voted on motions to ratify the community elected positions](https://github.com/carpentries-ec/conversations_ec_ed/issues/110) and [council elected positions](https://github.com/carpentries-ec/conversations_ec_ed/issues/111).
+*    We voted on motions to ratify the community elected positions and council elected positions.
     *   Motions passes
