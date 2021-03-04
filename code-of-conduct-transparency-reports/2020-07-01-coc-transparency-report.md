@@ -26,4 +26,5 @@ There were no committee changes.
 
 ### Further relevant information
 
-- Changed to GDPR compliant file storage
+- The Carpentries, Staff Liaison, François Michonneau moved the CoC files to a GDPR compliant file storage.
+- A policy update will be made in the document once the legal approval is received by the Staff Liaison.
