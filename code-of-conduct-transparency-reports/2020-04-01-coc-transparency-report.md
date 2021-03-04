@@ -26,5 +26,5 @@ There were no committee changes.
 
 ### Further relevant information
 
-- BioHackathon CoC
-- Karen World contacted regarding CoC governance as template/inspirastion for trainer governance
+- The Carpentries CoC was adopted by Virtual BioHackathon Covid-19 2020.
+- The CoC committee shared the governance plan with Karen Word who was developing the governance for the Trainer's Team.
