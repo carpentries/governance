@@ -29,4 +29,5 @@ Malvika Sharan was appointed as the Incident Response Chair and Karen Cranston w
 
 ### Further relevant information
 
+- On 23 September 2020, [the CoCc Governance document](https://docs.carpentries.org/topic_folders/policies/coc-governance.html) was added to the handbook. This document is approved by the members of the Code of Conduct committee, the executive director, Kari L. Jordan and executive committee. Contributors: drafted by Karin Lagesen, Malvika Sharan and Karen Word (2019) and extensively reviewed and updated by the committee members of the Code of Conduct committee: Karin Lagesen, Malvika Sharan, Karen Word, Samatha Ahern, Ivo Arrey, Benjamin Schwessinger, François Michonneau and Konrad Förstner (2019-2020).
 - Two CoC members, Ivo Arrey and Malvika Sharan volunteered to take the role of CoC facilitators during the CarpentryCon @ Home 2020.
