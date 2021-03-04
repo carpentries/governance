@@ -22,8 +22,8 @@ There were no policy changes.
  
 ### Committee changes
 
-- Samatha Aheran step down from the commitee 
+- Samatha Ahern stepped down after serving as a CoC committee member from 2018-2020.
 
 ### Further relevant information
 
-- CoC facilitors program was announced
+- The [Community facilitors program](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) was announced that will teach a module on Code of Conduct facilitation. As per the pist, this module will bridge between community members at events and our Code of Conduct processes.
