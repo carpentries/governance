@@ -6,7 +6,7 @@
 
 ### Reports
 
-Between 2020-10-01 and 2020-12-31, the Code of Conduct committee processed one formal incident report. 
+Between 2020-10-01 and 2020-12-31, the Code of Conduct committee processed NO formal incident report. 
 
 ### Potential Code of Conduct Breaches
 
