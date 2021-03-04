@@ -29,4 +29,4 @@ Malvika Sharan was appointed as the Incident Response Chair and Karen Cranston w
 
 ### Further relevant information
 
-- CoC members (Ivo, Malvika) acted as CarpentryCon facilitators 
+- Two CoC members, Ivo Arrey and Malvika Sharan volunteered to take the role of CoC facilitators during the CarpentryCon @ Home 2020.
