@@ -22,7 +22,10 @@ There were no policy changes.
  
 ### Committee changes
 
-- Karen Lagison stept back as chair; Malvika Sharan and Keren World took co-chair roles
+- Karin Lagesen stepped down after service as a chair of the CoC committee since 2018. 
+She will remain as a member of the committee.
+- As we continue to finalise the CoC governance document, 
+Malvika Sharan was appointed as the Incident Response Chair and Karen Cranston was appointed as the Governance Chair of the committee. 
 
 ### Further relevant information
 
