@@ -6,7 +6,7 @@
 
 ### Reports
 
-Between 2020-10-01 and 2020-12-31, the Code of Conduct committee processed one formal incident report. 
+Between 2020-10-01 and 2020-12-31, the Code of Conduct committee processed NO formal incident report. 
 
 ### Potential Code of Conduct Breaches
 
@@ -22,8 +22,8 @@ There were no policy changes.
  
 ### Committee changes
 
-- Samatha Aheran step down from the commitee 
+- Samatha Ahern stepped down after serving as a CoC committee member from 2018-2020.
 
 ### Further relevant information
 
-- CoC facilitors program was announced
+- The [Community facilitors program](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) was announced that will teach a module on Code of Conduct facilitation. As per the pist, this module will bridge between community members at events and our Code of Conduct processes.
