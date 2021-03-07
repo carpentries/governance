@@ -26,4 +26,4 @@ There were no policy changes.
 
 ### Further relevant information
 
-- The [Community facilitors program](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) was announced that will teach a module on Code of Conduct facilitation. As per the pist, this module will bridge between community members at events and our Code of Conduct processes.
+- The [Community facilitators program](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) was announced that will teach a module on Code of Conduct facilitation. As per the pist, this module will bridge between community members at events and our Code of Conduct processes.
