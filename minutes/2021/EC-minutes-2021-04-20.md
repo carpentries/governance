@@ -1,4 +1,4 @@
-### Minutes Carpentries Executive Council meeting April 20, 2021
+## Minutes Carpentries Executive Council meeting April 20, 2021
 
 * Present: Cedric Chambers, John Chodacki, Konrad Förstner, Kari
   Jordan, Paula Andrea Martinez, Lex Nederbragt, Aleksandra Nenadic,
@@ -6,7 +6,7 @@
 * Apologies: None
 * Guest: Talisha Sutton-Kennedy (Core Team)
 
-#### 21/15 - Funding updates
+### 21/15 - Funding updates
 
 * New grant starting in July, 248,000 USD from Sloan Foundation,
   partner with minority serving organisations, will onboard 50
@@ -14,7 +14,7 @@
   responsive)
 * We just hit 100 member organisations! (increase from 63 last year)
 
-#### 21/16 - Review draft financial report for community
+### 21/16 - Review draft financial report for community
 
 * Programs: term used to identify the various activities that move the
   mission forward: community engagement, membership, instructor
@@ -25,7 +25,7 @@
   and commended
 * The report will be finalized after that
 
-#### 21/17 - EC Standing Committees: approval of Committee Charters
+### 21/17 - EC Standing Committees: approval of Committee Charters
 
 * Regarding bylaw revision: regularly scheduled revision was in 2020,
   next in 2022. It may be good to start with a few issues we already
@@ -51,7 +51,7 @@
 * Governance Committee: suggested to add Approval of Election Policy
   (mentioned in the Bylaws but never approved)
 
-#### 21/18 - Approving 2021 EC meeting planning
+### 21/18 - Approving 2021 EC meeting planning
 
 * The planning document is meant to represent the final resolution of
   each issue. Sometimes there may be a need to discuss a topic at an
@@ -62,7 +62,7 @@
   August meeting
 * The meeting planning document was approved
 
-#### 21/19 - Sponsored Instructor Training Proposal 
+### 21/19 - Sponsored Instructor Training Proposal 
 
 * See Meeting Minutes from the Finance Committee meeting on this.
   Karen Word and Kari were present at this meeting.
@@ -80,7 +80,7 @@
   above)
 * Timeline: final approval at June EC meeting
 
-#### 21/20 - Poll core and wider community for who to align with
+### 21/20 - Poll core and wider community for who to align with
 
 * Related to 'how should we align ourselves with', needs to be well
   prepared. Asking the EC whether polling the community is a good
@@ -105,7 +105,7 @@
     community. Counter-counter argument is international issues Core
     Team and EC may not be aware of.
 
-#### Non-verbal updates
+### Non-verbal updates
 
 * According to our Yearly Timeline, we were supposed to Review the Q1
   financial report. However, this does not happen until the end of
