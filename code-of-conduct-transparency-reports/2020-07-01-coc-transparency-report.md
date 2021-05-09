@@ -18,7 +18,7 @@ There were no police matters.
 
 ### Policy changes
 
-The CoC governance document was approached by all stakeholder. 
+The CoC governance document was approved by all stakeholders from CoCc, EC and the core leadership. 
  
 ### Committee changes
 
