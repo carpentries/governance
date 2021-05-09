@@ -33,6 +33,7 @@ comparison to the budget of 2020.
   non-member events per quarter are planned as minimum goals but an
   increased occurrence of centrally organised workshops is currently
   observed so this goals might be exceeded.
+  
 ### 21/12 - Review and discussion of strategic plan activities
 * Instructor training needs a more prominent statement in the
    strategic plan due to its importance for the organisation. This
