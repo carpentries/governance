@@ -4,7 +4,7 @@ This directory includes Code of Conduct Transparency reports. Full information
 on our Code of Conduct, Reporting Guidelines and Enforcement Manual can be
 found in [The Carpentries handbook](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
 
-### Please use the template below for transparency report
+### Please use this template to draft Transparency Reports
 
 ```
 # The Carpentries Code of Conduct Transparency Report
