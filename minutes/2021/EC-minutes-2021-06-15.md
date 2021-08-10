@@ -47,10 +47,11 @@
   separate long-term Committee (for example, "Values Committee") to
   apply these recommendations.
 * The Carpentries Operations Manager is prepared to lead the Core Task
-  Force. EC member Aleks will represent the EC on the task force
-  with the Treasurer as back-up). Additionally, several members of
-  our broader Carpentries community were suggested to serve on the
-  task force and will be contacted once the list is finalized.
+  Force. Executiv Council member Aleks will represent the Executiv
+  Council on the task force with the Treasurer as
+  back-up). Additionally, several members of our broader Carpentries
+  community were suggested to serve on the task force and will be
+  contacted once the list is finalized.
 * The deadline for generating a recommendation proposal is September.
   The Operations Manager is planning to schedule 2-3 meetings prior
   to September. Once current members have completed the preparation
@@ -76,11 +77,12 @@
 
 * The purpose of this proposal is to outline how organisations can
   apply for fee waivers and then others would cover the cost of
-  instructor training for them. During the June EC meeting, we
-  determined that the EC was not needed to define the criteria; but
-  is a task for the Core Team with advisement from the EC. Follow-up
-  actions include understanding any requirements from a governance
-  perspective needed regarding how to approve fee waivers.
+  instructor training for them. During the June Executiv Council
+  meeting, we determined that the Executiv Council was not needed to
+  define the criteria; but is a task for the Core Team with advisement
+  from the Executiv Council. Follow-up actions include understanding
+  any requirements from a governance perspective needed regarding how
+  to approve fee waivers.
 * Potential instructors learn about The Carpentries in many different
   ways. Sometimes they move positions from active communities to new
   areas with a desire to grow the instructor community there. To
@@ -131,7 +133,8 @@
 * Action item:
   * Executive Director to get these steps in writing to the Executive
     Council.
-  * EC Chair: Ddiscuss this topic further with the Officers Committee.
+  * Executiv Council Chair: Ddiscuss this topic further with the
+    Officers Committee.
 
 #### Non-verbal updates
 
