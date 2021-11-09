@@ -12,29 +12,30 @@ Executive council are:
 ## Officers Committee
 Current members:  Member 1, Member 2, etc.
 
-[Key activities (e.g. 2-4) per section in bullet points drawing out the highlights of what has been achieved by the committee. Include links to Motions, or any publicly available documentation (e.g. blog posts or the Handbook), if available]. 
+List 2-4 key activities (e.g. in bullet points) drawing out the highlights of what has been achieved by the committee. Include links to Motions, or any publicly available documentation (e.g. blog posts or the Handbook), if available. 
 
 ## Governance Committee
 Current members:  Member 1, Member 2, etc.
 
-[Key activities (e.g. 2-4) per section in bullet points drawing out the highlights of what has been achieved by the committee. Include links to Motions, or any publicly available documentation (e.g. blog posts or the Handbook), if available]. 
+List 2-4 key activities (e.g. in bullet points) drawing out the highlights of what has been achieved by the committee. Include links to Motions, or any publicly available documentation (e.g. blog posts or the Handbook), if available. 
 
 ## Finance Committee
 Current members:  Member 1, Member 2, etc.
 
-[Key activities (e.g. 2-4) per section in bullet points drawing out the highlights of what has been achieved by the committee. Include links to Motions, or any publicly available documentation (e.g. blog posts or the Handbook), if available]. 
+List 2-4 key activities (e.g. in bullet points) drawing out the highlights of what has been achieved by the committee. Include links to Motions, or any publicly available documentation (e.g. blog posts or the Handbook), if available. 
 
 ## Communications Committee 
 Current members:  Member 1, Member 2, etc.
 
-[Key activities (e.g. 2-4) per section in bullet points drawing out the highlights of what has been achieved by the committee. Include links to Motions, or any publicly available documentation (e.g. blog posts or the Handbook), if available]. 
+List 2-4 key activities (e.g. in bullet points) drawing out the highlights of what has been achieved by the committee. Include links to Motions, or any publicly available documentation (e.g. blog posts or the Handbook), if available.  
 
 ## Program Committee
 Current members:  Member 1, Member 2, etc.
 
-[Key activities (e.g. 2-4) per section in bullet points drawing out the highlights of what has been achieved by the committee. Include links to Motions, or any publicly available documentation (e.g. blog posts or the Handbook), if available]. 
+List 2-4 key activities (e.g. in bullet points) drawing out the highlights of what has been achieved by the committee. Include links to Motions, or any publicly available documentation (e.g. blog posts or the Handbook), if available. 
 
 ## Any Other Notable Activities
-[Any other notable news or activity not included in other sections.]
-Summary of Future Plans (Optional)
-[A summary of future plans given in the bullet points. This section can be broad, designed to give an idea of the direction of travel rather than detail specific activities.]
+Any other notable news or activity not included in other sections.
+
+## Summary of Future Plans (Optional)
+A summary of future plans given in the bullet points. This section can be broad, designed to give an idea of the direction of travel rather than detail specific activities.
