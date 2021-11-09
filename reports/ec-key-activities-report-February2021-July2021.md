@@ -1,13 +1,20 @@
 # Executive Council Key Activities Report Template
-*Reporting period: February 20XX to July 20XX or September 20XX - January 20XX*
+*Reporting period: February 2021 to July 2021 (inclusive)*
 
 ## Summary Statement
 [The Carpentries Executive Council](https://docs.carpentries.org/topic_folders/governance/executive-council.html) is the highest leadership body of The Carpentries, to whom the Executive Director of the Carpentries reports. The work and engagement of the Executive Council is performed via the following committees: Officers Committee, Governance Committee, Finance Committee, Communications Committee, Program Committee. 
 
 Executive council are: 
-- Member 1 (firstname lastname), affiliation, optional: role in the Executive Council
-- Member 2 (firstname lastname), affiliation, optional: role in the Executive Council
-- ...
+- Cedric Chambers, Affiliation
+- John Chodacki, California Digital Library
+- Konrad Förstner, ZB MED - Information Centre for Life Sciences and TH Köln, Secretary
+- Paula Andrea Martinez, Australian Research Data Commons / Research Software Alliance, Vice Chair
+- Lex Nederbragt, University of Oslo, Norway, Chair
+- Aleksandra Nenadic, The Software Sustainability Institute, UK
+- Michael Smith, D.Eng., The PEER Group, Treasurer
+- Sarah Stevens, University of Wisconsin-Madison
+- Masami Yamaguchi, Griffith University, Australia, Code of Conduct Committee Liaison
+
 
 ## Officers Committee
 Current members:  Member 1, Member 2, etc.
