@@ -32,10 +32,15 @@ Current members:  Member 1, Member 2, etc.
 List 2-4 key activities (e.g. in bullet points) drawing out the highlights of what has been achieved by the committee. Include links to Motions, or any publicly available documentation (e.g. blog posts or the Handbook), if available. 
 
 ## Communications Committee 
-Current members:  Member 1, Member 2, etc.
+Current members:  Konrad Förstner, Aleksandra Nenadic, Masami Yamaguchi
 
-List 2-4 key activities (e.g. in bullet points) drawing out the highlights of what has been achieved by the committee. Include links to Motions, or any publicly available documentation (e.g. blog posts or the Handbook), if available.  
+The Communications Committee meets once a month. Over the reporting period, the key activities included:
 
+- Setting up the Values Alignment Task Force - the objective of the Values Alignment Task Force was to deliver a set of recommendations (a due diligence process) on how to identify whether an organisation or service is acting in accordance with [The Carpentries core values](https://carpentries.org/values/). The work of this Task Force was concluded in September 2021.
+- Development of a rubric for handling public statements from The Carpentries together with core team members.
+- [Announcement of the new Executive Council’s Standing Committees](https://carpentries.org/blog/2021/07/new-executive-council-standing-committees/), including updating the [Handbook](https://docs.carpentries.org/topic_folders/governance/executive-council.html#executive-council-s-standing-committees).
+- Generating a template and workflow regarding the Executive Council’s biennial reports.
+  
 ## Program Committee
 Current members:  Member 1, Member 2, etc.
 
