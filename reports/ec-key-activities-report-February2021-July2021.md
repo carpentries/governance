@@ -27,9 +27,18 @@ Current members:  Member 1, Member 2, etc.
 List 2-4 key activities (e.g. in bullet points) drawing out the highlights of what has been achieved by the committee. Include links to Motions, or any publicly available documentation (e.g. blog posts or the Handbook), if available. 
 
 ## Finance Committee
-Current members:  Member 1, Member 2, etc.
+Current members:  Michael Smith, Cedric Chambers, John Chodacki
 
-List 2-4 key activities (e.g. in bullet points) drawing out the highlights of what has been achieved by the committee. Include links to Motions, or any publicly available documentation (e.g. blog posts or the Handbook), if available. 
+The Finance Committee meets the second Thursday of each month. Over the reporting period, the key activities included:
+
+- Review of the treasury reports, including financial statements and current budget status for January - June 2021. (Each month the committee reviews the reports for two months prior to the current meeting month, based on complete report availability.)
+- Created, reviewed and approved the Finance Committee Charter
+- Reviewed and provided commentary on The Carpentries 2020 Financial Report (public).
+- Reviewed the current financial policy of The Carpentries.
+- Review FY2021 budget and approved budget increase to accommodate an increase in a standard monthly expense that was not accounted for in the original budgeting cycle.
+- Reviewing the updated Sponsored Instructor Training proposal to incorporate our regional and diversity growth goals. The Executive Council approved the [motion](https://github.com/carpentries/executive-council-info/issues/68) on approving the sponsorship limit of 250 seats for sponsored instructor training in 2021-2022. 
+- Began development of The Carpentries Business Sponsorship Program Project Plan and core implementation elements for finalization and approval in Q4.
+
 
 ## Communications Committee 
 Current members:  Konrad Förstner, Aleksandra Nenadic, Masami Yamaguchi
