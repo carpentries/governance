@@ -5,8 +5,9 @@
 The Carpentries Executive Council is the highest leadership body of The Carpentries, to whom the Executive Director of the Carpentries reports. The work and engagement of the Executive Council is performed via the following committees: Officers Committee, Governance Committee, Finance Committee, Communications Committee, Program Committee. 
 
 Executive council are: 
-- <Firstname> <Lastname>, <Affiliation>, [<Role in the Executive Council>]
-...
+- Firstname Lastname, Affiliation, [Role in the Executive Council]
+- Firstname Lastname, Affiliation, [Role in the Executive Council]
+- ...
 
 ## Officers Committee
 Current members:  Member 1, Member 2, etc.
