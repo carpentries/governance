@@ -42,13 +42,6 @@ The Communications Committee meets once a month. Over the reporting period, the 
 - Generating a template and workflow regarding the Executive Council’s biennial reports.
   
 ## Program Committee
-Current members:  Member 1, Member 2, etc.
+Current members:  Sarah Stevens, Lex Nederbragt, Aleksandra Nenadic, Masami Yamaguchi
 
-List 2-4 key activities (e.g. in bullet points) drawing out the highlights of what has been achieved by the committee. Include links to Motions, or any publicly available documentation (e.g. blog posts or the Handbook), if available. 
-
-## Any Other Notable Activities
-Any other notable news or activity not included in other sections.
-
-## Summary of Future Plans (Optional)
-A summary of future plans given in the bullet points. This section can be broad, designed to give an idea of the direction of travel rather than detail specific activities.
- 
+The Program Committee meets once a month. Over the reporting period, the committee has worked primarily on developing a Lesson Program governance policy and supporting the reactivation of the Curriculum Advisory Councils (CAC).
