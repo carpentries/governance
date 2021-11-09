@@ -1,10 +1,10 @@
 # Executive Council Key Activities Report Template
-*Reporting period: February 20XX to July 20XX or September 20XX - January 20XX*
+*Reporting period: February 20XX to July 20XX or September 20XX - January 20XX (modify accordingly)*
 
 ## Summary Statement
 [The Carpentries Executive Council](https://docs.carpentries.org/topic_folders/governance/executive-council.html) is the highest leadership body of The Carpentries, to whom the Executive Director of the Carpentries reports. The work and engagement of the Executive Council is performed via the following committees: Officers Committee, Governance Committee, Finance Committee, Communications Committee, Program Committee. 
 
-Executive council are: 
+Current Executive Council members are: 
 - Member 1 (firstname lastname), affiliation, optional: role in the Executive Council
 - Member 2 (firstname lastname), affiliation, optional: role in the Executive Council
 - ...
