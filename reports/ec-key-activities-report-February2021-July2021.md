@@ -4,7 +4,7 @@
 ## Summary Statement
 [The Carpentries Executive Council](https://docs.carpentries.org/topic_folders/governance/executive-council.html) is the highest leadership body of The Carpentries, to whom the Executive Director of the Carpentries reports. The work and engagement of the Executive Council is performed via the following committees: Officers Committee, Governance Committee, Finance Committee, Communications Committee, Program Committee. 
 
-Executive council are: 
+Current Executive Council members are: 
 - Cedric Chambers, Affiliation
 - John Chodacki, California Digital Library
 - Konrad Förstner, ZB MED - Information Centre for Life Sciences and TH Köln, Secretary
