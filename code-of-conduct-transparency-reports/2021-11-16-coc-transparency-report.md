@@ -30,7 +30,7 @@ There were no policy changes.
 
 ### Further relevant information
 
-- Additional details are proposed to be added to the "membership agreement" document describing the following aspect:
+- Additional details are proposed to be added to the CoC documents describing the following aspect:
   - Application and selection process for the new members
   - Training and Onboarding of new members
   - Limited incident response privileges for the newly onboarded committee members
