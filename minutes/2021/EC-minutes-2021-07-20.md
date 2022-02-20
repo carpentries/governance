@@ -1,4 +1,4 @@
-## Minutes to be published
+## Minutes Carpentries Executive Council meeting July 20, 2021
 
 * Present: Cedric Chambers, John Chodacki, Konrad Förstner, Paula
   Andrea Martinez, Aleksandra Nenadic, Michael Smith, Sarah Stevens,
