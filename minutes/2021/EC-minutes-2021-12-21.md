@@ -1,13 +1,11 @@
-## [Minutes to be published](#minutes-to-be-published-wip) (WIP)
-
-### Minutes Carpentries Executive Council Discussion meeting December 21, 2021
+## Minutes Carpentries Executive Council Discussion meeting December 21, 2021
 
 **Present**: Cedric Chambers, Konrad Förstner, Paula Andrea Martinez,
 Lex Nederbragt,, Michael Smith, Sarah Stevens, Masami Yamaguchi
 
 **Apologies**: Aleksandra Nenadic
 
-## 21/51 Approval of the 2022 budget (Talisha, 15 minutes)
+### 21/51 Approval of the 2022 budget (Talisha, 15 minutes)
 
 - High level question - how good is next year looking:
 
@@ -39,7 +37,7 @@ Lex Nederbragt,, Michael Smith, Sarah Stevens, Masami Yamaguchi
   Expenses Budget of \$2,347,918.00. Maker: Treasurer Smith, Motion
   passed (8 yes; 0 no, 0 abstained)**
 
-## 21/52 Discuss reorganisation of the Code of Conduct Committee (Officers Committee)
+### 21/52 Discuss reorganisation of the Code of Conduct Committee (Officers Committee)
 
 - Should there be more Executive Council members on the Code of
   Conduct Committee, or should it remain community-driven with an EC
@@ -102,7 +100,7 @@ Lex Nederbragt,, Michael Smith, Sarah Stevens, Masami Yamaguchi
   - Action item for everyone - read the comment by the Code of
     Conduct Committee
 
-## 21/53 Lesson Program governance (Program Committee)
+### 21/53 Lesson Program governance (Program Committee)
 
 - Program Committee have already talked to different group - no action
   needed once the motion is approved
@@ -114,7 +112,7 @@ Lex Nederbragt,, Michael Smith, Sarah Stevens, Masami Yamaguchi
   (Maker: EC Member Stevens) Motion passes (8 yes, 0 no, 0
   abstained)**
 
-## 21/54 Proposal to change meeting frequency from monthly to quarterly (with extended meeting length)
+### 21/54 Proposal to change meeting frequency from monthly to quarterly (with extended meeting length)
 
 - Will bring us a more board-like way of operating. A schedule was
   suggested - the different standing Executive Council committees
@@ -152,7 +150,7 @@ Lex Nederbragt,, Michael Smith, Sarah Stevens, Masami Yamaguchi
   Executive Council. (Maker: Treasurer Smith) Motion passes (7 yes,
   0 no, 1 abstiained).**
 
-## 21/55 High-level overview of what the 2022 EC will work on (all, 15 minutes)
+### 21/55 High-level overview of what the 2022 EC will work on (all, 15 minutes)
 
 - Main points
 
