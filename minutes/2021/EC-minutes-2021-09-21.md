@@ -126,8 +126,8 @@ Stevens, Masami Yamaguchi, Lex Nederbragt
 ### 21/42 Election 2022 Executive Council
 
 * Relaxing voting eligibility requirements: quick recap of the process
-  that led to [[the
-  motion]{.ul}](https://github.com/carpentries/executive-council-info/issues/69)
+  that led to [the
+  motion](https://github.com/carpentries/executive-council-info/issues/69)
   to expand voting eligibility for the 2022 Executive Council
   election. In April 2020 the Core Team sent a blogpost regarding the
   relaxation of voting. Lex was hesitant to put up a motion to bypass
@@ -137,11 +137,11 @@ Stevens, Masami Yamaguchi, Lex Nederbragt
   should make this transparent and write a blog post.
 * General update on the election process/progress
   * Blogpost announcing elections
-    [[https://carpentries.org/blog/2021/09/executive-council-elections/]{.ul}](https://carpentries.org/blog/2021/09/executive-council-elections/)
+    [https://carpentries.org/blog/2021/09/executive-council-elections/](https://carpentries.org/blog/2021/09/executive-council-elections/)
   * Key date October 18 closing of self-nominations and
     recommendations
-  * We also passed [[motion
-    66]{.ul}](https://github.com/carpentries/executive-council-info/issues/66)
+  * We also passed [motion
+    66](https://github.com/carpentries/executive-council-info/issues/66)
     to explicitly consider expertise for council elected
     positions.
   * Recommendations: Add names and detail (region, expertise)

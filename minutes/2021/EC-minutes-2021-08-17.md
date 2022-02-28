@@ -43,7 +43,7 @@
     *  For Dec. 31, 2022 - provide 200 seats
 	
 * The finance committee has created a motion
-  [[(\#68)]{.ul}](https://github.com/carpentries/executive-council-info/issues/68)
+  [#68](https://github.com/carpentries/executive-council-info/issues/68)
   for the approval of the 250 seats to be added to the Sponsorship
   Instructor Training.
   
@@ -65,7 +65,7 @@
   for the election policy.
   
 * There were two motions created by the Governance Committee.
-  * [[\#66]{.ul}](https://github.com/carpentries/executive-council-info/issues/66) -
+  * [#66](https://github.com/carpentries/executive-council-info/issues/66) -
      Expand the election policy to consider expertise for council
      elected positions
      * Pro - If we do this as only an election policy document we only

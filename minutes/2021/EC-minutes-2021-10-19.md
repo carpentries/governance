@@ -18,7 +18,7 @@ Yamaguchi
 - Sponsorship Program announced week of 10/11. The Executive Director
   (Kari) will be reaching out to potential sponsors to jump start the
   program. The
-  [[Sponsorships\@carpentries.org]{.ul}](mailto:Sponsorships@carpentries.org)
+  [Sponsorships@carpentries.org](mailto:Sponsorships@carpentries.org)
   email account was created to manage. The Executive Council members
   are asked to share any potential sponsors for their outreach to the
   email.
@@ -48,7 +48,7 @@ Yamaguchi
 
 - Introduced Sliding Scale and Financial Assistance based on regional
   needs (access and inclusion) -
-  [[https://www.numbeo.com/cost-of-living/rankings_by_country.jsp]{.ul}](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp)
+  [https://www.numbeo.com/cost-of-living/rankings_by_country.jsp](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp)
 
   - Financial Assistance package (application created) for members
     to apply for 25%, 35% or 50% scaled price for a specific
@@ -67,17 +67,17 @@ Yamaguchi
     involvement in decision making in the new organisation after
     the (then already) planned merger
 
-  - We have also discussed this issue at our [[March Executive
+  - We have also discussed this issue at our [March Executive
     Council
-    meeting]{.ul}](https://github.com/carpentries/executive-council-info/blob/main/minutes/2021/EC-minutes-2021-03-16.md#2114---generative-modemission-moment-how-and-when-to-involve-the-community-in-ec-decision-making)
+    meeting](https://github.com/carpentries/executive-council-info/blob/main/minutes/2021/EC-minutes-2021-03-16.md#2114---generative-modemission-moment-how-and-when-to-involve-the-community-in-ec-decision-making)
     but did not really draw a conclusion
 
-  - The following Github [[initial
-    issue]{.ul}](https://github.com/carpentries/conversations/issues/5#issue-195287084)
+  - The following Github [initial
+    issue](https://github.com/carpentries/conversations/issues/5#issue-195287084)
     and the following comments to it: the first two paragraphs of
-    \[[[1]{.ul}](https://github.com/carpentries/conversations/issues/5#issuecomment-267049329)\]
+    [1](https://github.com/carpentries/conversations/issues/5#issuecomment-267049329)\]
     and the whole of
-    \[[[2]{.ul}](https://github.com/carpentries/conversations/issues/5#issuecomment-267134460)\] -
+    [2](https://github.com/carpentries/conversations/issues/5#issuecomment-267134460)\] -
     feel free to read the entire thread and its references but
     these three comments are the most important (Note that "SWC"
     stand for "Software Carpentry" and "DC" for "Data Carpentry")
