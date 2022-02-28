@@ -7,7 +7,7 @@ found in The Carpentries Handbook, describe the composition and main responsibil
 
 ## Carpentries Executive Council Standing Committees
 Standing Committees are used by the Executive Council as a practical way to manage the work and engagement of the Executive Council.
-For a description of the different Standing Committees, see [the Carpentries' handbook](https://docs.carpentries.org/topic_folders/governance/executive-council.html?#executive-council-s-standing-committees).
+For a description of the different Standing Committees, see [the Carpentries' Handbook](https://docs.carpentries.org/topic_folders/governance/executive-council.html?#executive-council-s-standing-committees).
 
 Members of the committees for the 2022 Executive Council are listed below.
 
