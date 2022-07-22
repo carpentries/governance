@@ -3,7 +3,7 @@
 
 #### Present
 
-**From the Executive Council:** Sarah Stevens, Yanina Bellini Baibene, Michael D. Smith, Aleksandara Nenadic, Konrad Förstner, John Chodacki, Masami Yamaguchi
+**From the Executive Council:** Sarah Stevens, Yanina Bellini Saibene, Michael D. Smith, Aleksandara Nenadic, Konrad Förstner, John Chodacki, Masami Yamaguchi
 
 **From the Core Team:** Erin Becker, Talisha Sutton-Kenedy, Danielle Sieh
 
