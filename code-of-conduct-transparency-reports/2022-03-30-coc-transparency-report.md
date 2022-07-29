@@ -22,6 +22,8 @@ There were no policy changes.
  
 ### Committee changes
 
+- Onboarding for the new members was conducted, which involved Lora Leligdon, Jonathan Stoneman, D. Sarah Stamps, 
+Andrea Sánchez-Tapia, Annajiat Alim Rasel and Yo Yehudi.
 - Masami Yamaguchi stepped down, and Annajiat Alim Rasel joined as the CoC committee (CoCc) Liaison to the EC.
 - Initially Annajiat was invited to join the CoCc based on his application, however, upon his election 
 in the Executive Council, and to further avoid any confusion regarding his role, this was a resolution agreed
