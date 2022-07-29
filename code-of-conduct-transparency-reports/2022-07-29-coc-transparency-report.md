@@ -24,11 +24,7 @@ There were no policy changes.
  
 ### Committee changes
 
-- Masami Yamaguchi stepped down, and Annajiat Alim Rasel joined as the CoC committee (CoCc) Liaison to the EC.
-- Initially, Annajiat was invited to join the CoCc based on his application, however, upon his election 
-to the Executive Council, and to further avoid any confusion regarding his role, this was a resolution agreed
-upon by both the Code of Conduct committee and EC.
-- An inquiry for CoC response training (potentially via Sage Sharpe) for the new members has been assigned to the staff liaison.
+- François Michonneau stepped down, and Kari Jordan joined as the CoC committee (CoCc) Liaison to The Carpentries Staff.
 
 ### Further relevant information
 
