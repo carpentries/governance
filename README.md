@@ -21,7 +21,6 @@ Members of the committees for the 2022 Executive Council are listed below.
 * Konrad Förstner (Committee Chair)
 * Annajiat Alim Rasel
 * Yanina Bellini Saibene
-* Amel Ghouila
 
 ### [Finance Committee](https://docs.carpentries.org/topic_folders/governance/executive-council.html?#finance-committee)
 * Michael Smith (Committee Chair)
@@ -34,9 +33,8 @@ Members of the committees for the 2022 Executive Council are listed below.
 * Omar Khan (Core Team member)
 
 ### [Program Committee](https://docs.carpentries.org/topic_folders/governance/executive-council.html?#program-committee)
-* Amel Ghouila (Committee Chair)
+* Aleksandra Nenadic (Committee Chair) 
 * Annajiat Alim Rasel
-* Aleksandra Nenadic
 * Sarah Stevens
 
 ## Executive Council Documentation
