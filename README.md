@@ -41,6 +41,9 @@ Members of the committees for the 2022 Executive Council are listed below.
 Documentiation on the workings of the Executive Council can be found 
 at [The Carpentries Handbook pages on The Executive Council](https://docs.carpentries.org/topic_folders/governance/executive-council.html).
 
+## Minutes for Meetings
+Please see the [minutes folder](minutes/) for the notes from EC meetings.  Note that motions until 2022 were also written in issues on this repository but since then are included instead only in the minutes.
+
 ## Contacting the Executive Council
 If you have a question or concern about EC operations, there are several ways you can communicate with us.
 These are described in the [The Carpentries Handbook](https://docs.carpentries.org/topic_folders/governance/executive-council.html#contacting-the-executive-council).
