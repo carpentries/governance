@@ -13,3 +13,5 @@ I move to approve the following conditions for the 2022-2023 Executive Council E
 **Second:** Yanina Bellini Saibene
 
 **Motion passes with:** 7 (yes), 0 (no), 2 (abstain)
+
+**Date:** 2022-09-12
