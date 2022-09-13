@@ -20,14 +20,14 @@ Amel Ghouila
 
 **_“Any changes to these bylaws require a majority vote of the Executive Council. The Executive Council must re-approve these rules or an amended version every two years.”_**
 
-**to: **
+**to:**
 
 **_“Any changes to these bylaws require a majority vote of the Executive Council. The Executive Council must re-approve these rules or an amended version at least every two years.”_**
 
-**as documented in [https://github.com/carpentries/2022_Bylaw_revision/pull/14/](https://github.com/carpentries/2022_Bylaw_revision/pull/14/). **
+**as documented in [https://github.com/carpentries/2022_Bylaw_revision/pull/14/](https://github.com/carpentries/2022_Bylaw_revision/pull/14/).**
 
-**Maker: Konrad Förstner**
+**Maker:** Konrad Förstner
 
-**Second: Yanina Bellini Saibene**
+**Second:** Yanina Bellini Saibene
 
-**Motion passes with: 8 (yes), 0 (no), 0 (abstain)**
+**Motion passes with:** 8 (yes), 0 (no), 0 (abstain)
