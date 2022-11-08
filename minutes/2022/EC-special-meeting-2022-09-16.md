@@ -1,4 +1,4 @@
-## Minutes from The Carpentries Executive Council (EC) Special Meeting Meeting, 16 September 2022
+## Minutes from The Carpentries Executive Council (EC) Special Meeting, 16 September 2022
 
 
 #### Present
