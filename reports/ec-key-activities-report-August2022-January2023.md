@@ -23,7 +23,7 @@ _Reporting period: August 2022 to January 2023 (inclusive)_
 
 #### Officers Committee
 
-Current members: Sarah Stevens (Chair), Konrad Förstner (Vice Chair), Michael Smith (Treasurer), Aleksandra Nenadic (Secretary)
+Current members: Sarah Stevens (EC Chair), Konrad Förstner (EC Vice Chair), Michael Smith (EC Treasurer), Aleksandra Nenadic (EC Secretary)
 
 The Officers Committee meets on the fourth Tuesday each month. Over the reporting period, the Officers Committee’s key activities included:
 
