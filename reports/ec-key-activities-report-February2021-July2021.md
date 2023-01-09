@@ -17,14 +17,19 @@ Current Executive Council members are:
 
 
 ## Officers Committee
-Current members:  Member 1, Member 2, etc.
+Current members: Lex Nederbragt, Paula Andrea Martinez, Konrad Förstner, Michael Smith
 
-List 2-4 key activities (e.g. in bullet points) drawing out the highlights of what has been achieved by the committee. Include links to Motions, or any publicly available documentation (e.g. blog posts or the Handbook), if available. 
+The Officers Committee meets when needed. Over the reporting period, the key activities included:
+
+* Formation and structuring of the Executive Council Standing Committees
+* Wrote the Committee’s charter
 
 ## Governance Committee
-Current members:  Member 1, Member 2, etc.
+Current members: Lex Nederbragt, Paula Andrea Martinez, Konrad Förstner
 
-List 2-4 key activities (e.g. in bullet points) drawing out the highlights of what has been achieved by the committee. Include links to Motions, or any publicly available documentation (e.g. blog posts or the Handbook), if available. 
+* Organised and ran the Executive Council Annual Meeting in June 2021
+* Surveyed key elements of decision making transparency rubric between the EC and the Core team, proposed a motion and published consensus via the handbook
+* Reviewed internal election documentation and updated it as needed
 
 ## Finance Committee
 Current members:  Michael Smith, Cedric Chambers, John Chodacki
