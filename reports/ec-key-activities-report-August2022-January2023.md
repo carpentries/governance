@@ -39,7 +39,10 @@ Current members: Konrad Förstner (Chair), Annajiat Alim Rasel, Yanina Bellini S
 
 The Governance Committee meets on the second Thursday each month. Over the reporting period, the Governance Committee’s key activities included:
 
-* Overseeing the [2023 Executive Council Elections](https://carpentries.org/blog/2022/09/ec-elections/) in September 2022 
+* Overseeing the [2023 Executive Council Elections](https://carpentries.org/blog/2022/09/ec-elections/) in September 2022
+* Reviewing and updating The Carpentries Bylaws
+* Writing the Parliamentary Procedures of the Executive Council
+
 
 
 #### Finance Committee
@@ -60,6 +63,7 @@ Current members:  Yanina Bellini Saibene, Masami Yamaguchi
 The Communications Committee meets once a month. Over the reporting period, the key activities included:
 
 * Supporting multiple languages for The Carpentries blog and other social media, in particular for the 2023 Carpentries Executive Council election campaign which was provided in 4 languages: [English](https://carpentries.org/blog/2022/09/ec-elections), [German](https://carpentries.org/blog/2022/09/ec-elections_de/), [Spanish](https://carpentries.org/blog/2022/09/ec-elections_es), [Japanese](https://carpentries.org/blog/2022/09/ec-elections_ja).
+* Reporting on the activities of the Executive Council at The Carpentries blog
 
 
 #### Program Committee 
