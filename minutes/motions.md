@@ -22,7 +22,6 @@ I move to approve the following conditions for the 2022-2023 Executive Council E
 **Voting:** Motion passes (7 yes, 0 no, 2 abstain)  
 **Date:** 2022-09-12  
 
-
 ## Approving Minutes from the Executive Council Retreat on 2022-07-19
 
 I move to approve the minutes from the [Executive Council meeting on Bylaws revision at the Executive Council Retreat on 19th July 2022](https://github.com/carpentries/executive-council-info/blob/main/minutes/2022/EC-minutes-2022-07-19-Retreat.md). 
@@ -32,7 +31,7 @@ I move to approve the minutes from the [Executive Council meeting on Bylaws revi
 **Voting:** Motion passes (8 yes, 0 no, 0 abstain)   
 **Date:** 2022-08-11    
 
-## Approving Minutes from the Executive Council Quarterly (Q2) meeting on 2022-05-09
+## Approving Minutes from the Executive Council Quarterly Q2 Meeting on 2022-05-09
 
 I move to approve the minutes from the [Executive Council Quarterly (Q2) meeting on 9th May 2022](https://github.com/carpentries/executive-council-info/blob/main/minutes/2022/EC-minutes-2022-05-09-Q2.md).
 
@@ -55,3 +54,20 @@ as documented in [https://github.com/carpentries/2022_Bylaw_revision/pull/14/](h
 **Voting:** Motion passes (8 yes, 0 no, 0 abstain)  
 **Date:** 2022-07-19    
 
+## Committee Charter Review
+
+I move to approve the updated EC standing committee (Officers Committee, Finance Committee, Communications Committee, Governance Committee, Program Committee) charters for 2022.  
+
+**Maker:** Sarah Stevens  
+**Second:** John Chodacki   
+**Voting:** Motion passes (7 yes, 0 no, 0 abstain)  
+**Date:**: 2022-05-09
+
+## Approving Minutes from the Executive Council Quarterly Q1 Meeting on 2022-02-28
+
+I move to approve the minutes from the [Executive Council Quarterly Q1 meeting on 28th February 2022](https://github.com/carpentries/executive-council-info/blob/main/minutes/2022/EC-minutes-2022-02-28-Q1.md).
+
+**Maker:** Aleksandra Nenadic  
+**Second:** Sarah Stevens   
+**Voting:** Motion passes (6 yes, 0 no, 3 abstain)    
+**Date:**: 2022-04-29
