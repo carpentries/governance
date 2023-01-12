@@ -17,7 +17,7 @@
 - Approved minutes from the[ Executive Council retreat on 2022-07-19](https://github.com/carpentries/executive-council-info/blob/main/minutes/2022/EC-minutes-2022-07-19-Retreat.md)
     - **Voting:** I move to approve the minutes from the 19th July 2022 Executive Council meeting on Bylaws revision at the Executive Council Retreat. **Maker:** EC Secretary Nenadic, **Second:** EC Treasurer Smith. **Motion passes** (8 yes, 0 no, 0 abstained) 
 - Approved minutes from the [Executive Council Quarterly (Q2) meeting on 2022-05-09](https://github.com/carpentries/executive-council-info/blob/main/minutes/2022/EC-minutes-2022-05-09-Q2.md)
-    - **Voting:** I move to approve the minutes from the 19th July 2022 Executive Council meeting on Bylaws revision at the Executive Council Retreat:. **Maker:** EC Secretary Nenadic, **Second:** ED Jordan. **Motion passes** (6 yes, 0 no, 3 abstained) 
+    - **Voting:** I move to approve the minutes from the 9th May 2022 Executive Council Quarterly (Q2) meeting. **Maker:** EC Secretary Nenadic, **Second:** ED Jordan. **Motion passes** (6 yes, 0 no, 3 abstained) 
 
 
 ### Agenda item 22/17: Executive Director Updates
