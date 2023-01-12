@@ -6,10 +6,14 @@ _Reporting period: August 2022 to January 2023 (inclusive)_
 
 ### Summary Statement
 
-[The Carpentries Executive Council](https://docs.carpentries.org/topic_folders/governance/executive-council.html) (EC) is the highest leadership body of The Carpentries, to whom the Executive Director of the Carpentries reports. The work and engagement of the Executive Council is performed via the following committees: Officers Committee, Governance Committee, Finance Committee, Communications Committee, Program Committee. Current members of the EC are: 
+[The Carpentries Executive Council](https://docs.carpentries.org/topic_folders/governance/executive-council.html) (EC) is the highest leadership body of The Carpentries, to whom the Executive Director of the Carpentries reports. The work and engagement of the Executive Council is performed via the following committees: 
+* Officers Committee
+* Governance Committee
+* Finance Committee
+* Communications Committee
+* Program Committee
 
-
-
+Current members of the EC are: 
 * John Chodacki, California Digital Library
 * Konrad Förstner (EC Vice Chair), ZB MED - Information Centre for Life Sciences and TH Köln
 * Abdulai Imoro, National Society of Black Engineers, Ghana
