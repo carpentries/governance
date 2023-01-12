@@ -52,7 +52,7 @@
 * Smaller inconsistent formatting issues were identified
 * It was suggested that the committees keep the past charters’ text in the same documents and create the new ones each year on top, to preserve the history and for tracking purposes (e.g. past members and changes)
 * For several of the charters, it was noted that the new version/formatting is much better to work with than the previous one. For example, for the Finance Committee it is difficult to identify new, unique things that change from year to year - many of the past objectives would simply remain the same. The suggestion was to nail the common format/portions of the charter down and only ask for a certain number of things to be reviewed each year.
-* **<span style="text-decoration:underline;">Voting:</span> I move to approve the EC standing committee charters for 2022. Maker: Sarah Stevens 2022, Second: EC John Chodacki 2022. Motion passes (7 yes, 0 no, 0 abstained)**
+* **<span style="text-decoration:underline;">Voting:</span> I move to approve the EC standing committee charters for 2022. Maker: Sarah Stevens, Second: EC John Chodacki. Motion passes (7 yes, 0 no, 0 abstained)**
 
 
 ### Agenda item 22/13: Standing Committee Reports
