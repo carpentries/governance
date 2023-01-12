@@ -6,8 +6,8 @@ I move to approve adding Abdulai Imoro to the Executive Council as a replacement
 
 **Maker:** EC Chair Sarah Stevens  
 **Second:** EC Treasurer Michael Smith  
-**Voting:** Motion passes with: 6 yes, 0 no, 0 abstain
-**Date:** 2022-09-16
+**Voting:** Motion passes with: 6 yes, 0 no, 0 abstain  
+**Date:** 2022-09-16  
 
 ## Change in the voting eligibility for the 2022-2023 Carpentries Executive Council Elections
 
@@ -19,5 +19,5 @@ I move to approve the following conditions for the 2022-2023 Executive Council E
 
 **Maker:** Konrad Förstner  
 **Second:** Yanina Bellini Saibene  
-**Voting:** Motion passes with:** 7 yes, 0 no, 2 abstain
-**Date:** 2022-09-12
+**Voting:** Motion passes with:** 7 yes, 0 no, 2 abstain  
+**Date:** 2022-09-12  
