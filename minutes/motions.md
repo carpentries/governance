@@ -23,16 +23,16 @@ I move to approve the following conditions for the 2022-2023 Executive Council E
 **Date:** 2022-09-12  
 
 
-## Approving minutes from the [Executive Council retreat on 2022-07-19](https://github.com/carpentries/executive-council-info/blob/main/minutes/2022/EC-minutes-2022-07-19-Retreat.md)
+## Approving Minutes from the Executive Council Retreat on 2022-07-19
 
-I move to approve the minutes from the 19th July 2022 Executive Council meeting on Bylaws revision at the Executive Council Retreat. 
+I move to approve the minutes from the [Executive Council meeting on Bylaws revision at the Executive Council Retreat](https://github.com/carpentries/executive-council-info/blob/main/minutes/2022/EC-minutes-2022-07-19-Retreat.md) on 19th July 2022. 
 
 **Maker:** Aleksandra Nenadic  
 **Second:** Michael Smith  
 **Voting:** Motion passes (8 yes, 0 no, 0 abstain) 
 **Date:** 2022-08-11    
 
-## Approving minutes from the [Executive Council Quarterly (Q2) meeting on 2022-05-09](https://github.com/carpentries/executive-council-info/blob/main/minutes/2022/EC-minutes-2022-05-09-Q2.md)
+## Approving Minutes from the Executive Council Quarterly (Q2) meeting on 2022-05-09
 
 I move to approve the minutes from the [Executive Council Quarterly (Q2) meeting on 9th May 2022](https://github.com/carpentries/executive-council-info/blob/main/minutes/2022/EC-minutes-2022-05-09-Q2.md)
 
