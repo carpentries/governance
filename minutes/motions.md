@@ -71,3 +71,13 @@ I move to approve the minutes from the [Executive Council Quarterly Q1 meeting o
 **Second:** Sarah Stevens   
 **Voting:** Motion passes (6 yes, 0 no, 3 abstain)    
 **Date:**: 2022-04-29
+
+
+## Approving Minutes from the Executive Council Meeting on 2022-12-21
+
+I move to approve the minutes from the [Executive Council meeting on 21 December 2021](https://github.com/carpentries/executive-council-info/blob/main/minutes/2021/EC-minutes-2021-12-21.md).
+
+**Maker:** Sarah Stevens    
+**Second:** Michael Smith    
+**Voting:** Motion passes (6 yes, 0 no, 2 abstain)      
+**Date:** 2022-02-28  
