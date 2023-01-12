@@ -46,7 +46,7 @@ Please see the [minutes folder](minutes/) for the notes from the EC meetings.
 
 ## Motions
 Motions from 2022 onwards are included in [meeting minutes](#minutes-for-meetings) as well as in a separate 
-[rolling document containing all the motions](minutes/motions.md). Untill 2022, the motions were written in minutes and as issues on this repository.
+[rolling document containing all the motions](minutes/motions.md) since 2022. Untill 2022, the motions were written in minutes and as issues on this repository.
 
 ## Contacting the Executive Council
 If you have a question or concern about EC operations, there are several ways you can communicate with us.
