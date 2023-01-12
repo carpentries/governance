@@ -15,7 +15,7 @@ I move to approve the following conditions for the 2022-2023 Executive Council E
 
 - certified instructors who have taught 2 times between 2019 and 2022 are eligible for Voting Membership.
 - certified trainers who meet the requirements for active and alumni trainer status anytime between 2019 and 2022.
-- maintainers who were active between 2019 and 2022.**
+- maintainers who were active between 2019 and 2022.
 
 **Maker:** Konrad Förstner  
 **Second:** Yanina Bellini Saibene  
@@ -48,7 +48,7 @@ I move to change Article 10 in the Bylaws from:
 _“Any changes to these bylaws require a majority vote of the Executive Council. The Executive Council must re-approve these rules or an amended version every two years.”_  
 to:  
 _“Any changes to these bylaws require a majority vote of the Executive Council. The Executive Council must re-approve these rules or an amended version at least every two years.”_    
-as documented in [https://github.com/carpentries/2022_Bylaw_revision/pull/14/](https://github.com/carpentries/2022_Bylaw_revision/pull/14/).**
+as documented in [https://github.com/carpentries/2022_Bylaw_revision/pull/14/](https://github.com/carpentries/2022_Bylaw_revision/pull/14/).
 
 **Maker:** Konrad Förstner  
 **Second:** Yanina Bellini Saibene  
