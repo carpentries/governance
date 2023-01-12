@@ -6,8 +6,8 @@ I move to approve adding Abdulai Imoro to the Executive Council as a replacement
 
 **Maker:** Sarah Stevens  
 **Second:** Michael Smith  
-**Voting:** Motion passes (6 yes, 0 no, 0 abstain)
-**Date:** 2022-09-16  
+**Voting:** Motion passes (6 yes, 0 no, 0 abstain)  
+**Date:** 2022-09-16    
 
 ## Voting Eligibility for the 2022-2023 Carpentries Executive Council Elections
 
@@ -29,7 +29,7 @@ I move to approve the minutes from the [Executive Council meeting on Bylaws revi
 
 **Maker:** Aleksandra Nenadic  
 **Second:** Michael Smith  
-**Voting:** Motion passes (8 yes, 0 no, 0 abstain) 
+**Voting:** Motion passes (8 yes, 0 no, 0 abstain)   
 **Date:** 2022-08-11    
 
 ## Approving Minutes from the Executive Council Quarterly (Q2) meeting on 2022-05-09
