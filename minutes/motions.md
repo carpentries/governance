@@ -9,7 +9,7 @@ I move to approve adding Abdulai Imoro to the Executive Council as a replacement
 **Voting:** Motion passes with: 6 yes, 0 no, 0 abstain  
 **Date:** 2022-09-16  
 
-## Change in the voting eligibility for the 2022-2023 Carpentries Executive Council Elections
+## Voting Eligibility for the 2022-2023 Carpentries Executive Council Elections
 
 I move to approve the following conditions for the 2022-2023 Executive Council Elections voting eligibility:
 
