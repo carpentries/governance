@@ -42,7 +42,11 @@ Documentiation on the workings of the Executive Council can be found
 at [The Carpentries Handbook pages on The Executive Council](https://docs.carpentries.org/topic_folders/governance/executive-council.html).
 
 ## Minutes for Meetings
-Please see the [minutes folder](minutes/) for the notes from EC meetings.  Note that motions until 2022 were also written in issues on this repository but since then are included instead only in the minutes.
+Please see the [minutes folder](minutes/) for the notes from the EC meetings.  
+
+## Motions
+Motions from 2022 onwards are included in [meeting minutes](#minutes-for-meetings) as well as in a separate 
+[rolling document containing all the motions](minutes/motions.md). Untill 2022, the motions were written in minutes and as issues on this repository.
 
 ## Contacting the Executive Council
 If you have a question or concern about EC operations, there are several ways you can communicate with us.
