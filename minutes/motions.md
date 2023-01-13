@@ -59,7 +59,7 @@ as documented in [https://github.com/carpentries/2022_Bylaw_revision/pull/14/](h
 **Voting:** Motion passes (8 yes, 0 no, 0 abstain)  
 **Date:** 2022-07-19    
 
-## Committee Charter Review
+### Committee Charter Review
 
 I move to approve the updated EC standing committee (Officers Committee, Finance Committee, Communications Committee, Governance Committee, Program Committee) charters for 2022.  
 
@@ -68,7 +68,7 @@ I move to approve the updated EC standing committee (Officers Committee, Finance
 **Voting:** Motion passes (7 yes, 0 no, 0 abstain)  
 **Date:**: 2022-05-09
 
-## Approving Minutes from the Executive Council Quarterly Q1 Meeting on 2022-02-28
+### Approving Minutes from the Executive Council Quarterly Q1 Meeting on 2022-02-28
 
 I move to approve the minutes from the [Executive Council Quarterly Q1 meeting on 28th February 2022](https://github.com/carpentries/executive-council-info/blob/main/minutes/2022/EC-minutes-2022-02-28-Q1.md).
 
@@ -78,7 +78,7 @@ I move to approve the minutes from the [Executive Council Quarterly Q1 meeting o
 **Date:**: 2022-04-29
 
 
-## Approving Minutes from the Executive Council Meeting on 2022-12-21
+### Approving Minutes from the Executive Council Meeting on 2022-12-21
 
 I move to approve the minutes from the [Executive Council meeting on 21 December 2021](https://github.com/carpentries/executive-council-info/blob/main/minutes/2021/EC-minutes-2021-12-21.md).
 
