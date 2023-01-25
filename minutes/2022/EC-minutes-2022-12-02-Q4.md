@@ -1,7 +1,7 @@
 ## Minutes from The Carpentries Executive Council Quarterly (Q4) Meeting, 2 December 2022
 
 ### Present
-**From the Executive Council:** Sarah Stevens, Konrad Förstner, Abdulai Imoro, Aleksandra Nenadic, Masami Yamaguchi, John Chodacki, Yanina Bellini Saibene
+**From the Executive Council:** Sarah Stevens, Konrad Förstner, Abdulai Imoro, Aleksandra Nenadic, Masami Yamaguchi, John Chodacki, Yanina Bellini Saibene  
 **From the Core Team:** Kari Jordan, Danielle Sieh, Talisha Sutton-Kennedy   
 
 ### Agenda Item 22/23: Approving Minutes from the Past Meetings
