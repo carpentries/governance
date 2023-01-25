@@ -1,16 +1,16 @@
 ## Minutes from The Carpentries Executive Council Quarterly (Q4) Meeting, 2 December 2022
 
 ### Present
-**From the Executive Council:** Sarah Stevens, Konrad Förstner, Abdulai Imoro, Aleksandra Nenadic, Masami Yamaguchi, John Chodacki  
+**From the Executive Council:** Sarah Stevens, Konrad Förstner, Abdulai Imoro, Aleksandra Nenadic, Masami Yamaguchi, John Chodacki, Yanina Bellini Saibene
 **From the Core Team:** Kari Jordan, Danielle Sieh, Talisha Sutton-Kennedy   
 
 ### Agenda Item 22/23: Approving Minutes from the Past Meetings
 * The EC approved the minutes from the [Executive Council Q3 meeting on 2022-08-11](https://github.com/carpentries/executive-council-info/blob/main/minutes/2022/EC-minutes-2022-08-11-Q3.md)
     * **Motion:** I move to approve the minutes from the 11 August 2022 (Q3 2022) meeting of the Executive Council
       * **Maker:** Aleksandra Nenadic; **Second:** Sarah Stevens; **Voting:** motion passed (7 yes, 0 no, 0 abstained) 
-* The EC approved the minutes from the [Executive Council special meeting on 2022-09-16](https://github.com/carpentries/executive-council-info/blob/main/minutes/2022/EC-special-meeting-2022-09-16.md) to select the replacement for the EC member Amel Ghouila
+* The EC approved the minutes from the [Executive Council special meeting on 2022-09-16](https://github.com/carpentries/executive-council-info/blob/main/minutes/2022/EC-special-meeting-2022-09-16.md) to select the replacement for the Executive Council member Amel Ghouila
     * **Motion:** I move to approve the minutes from the 16 September 2022 special meeting of the Executive Council
-      * **Maker:** Aleksandra Nenadic; **Second:** Yanina Saibene; **Voting:** motion passed (7 yes, 0 no, 0 abstained)
+      * **Maker:** Aleksandra Nenadic; **Second:** Yanina Bellini Saibene; **Voting:** motion passed (7 yes, 0 no, 0 abstained)
 
 ### Agenda Item 22/24: Approving the Conflict of Interest Declaration Form
 
@@ -23,7 +23,7 @@
 * The  Executive Council’s 2023 Work Plan was designed to give an overview of the work planned for 2023, help plan the activities in advance and make it easier for the  Executive Council members to know what to focus on each month. The plan will be reviewed each quarter and updated as needed.
 * The  Executive Council approved the Executive Council’s 2023 Work Plan
     * **Motion:** I move to approve the Executive Council’s 2023 Work Plan 
-      * **Maker:** EC Member Sarah Stevens; **Second:** EC Member John Chodacki; **Voting: motion passed** (7 yes, 0 no, 0 abstained)
+      * **Maker:** Sarah Stevens; **Second:** John Chodacki; **Voting: motion passed** (7 yes, 0 no, 0 abstained)
 
 ### Agenda Item 22/26: Q3 Financial Update and 2023 Budget Approval
 
