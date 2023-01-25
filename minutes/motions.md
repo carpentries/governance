@@ -12,7 +12,7 @@ I move to approve the minutes from the [Executive Council Quarterly (Q3) meeting
 
 **Maker:** Aleksandra Nenadic  
 **Second:** Sarah Stevens  
-**Voting:** Motion passed (7 yes, 0 no, 0 abstain)
+**Voting:** Motion passed (7 yes, 0 no, 0 abstain)  
 **Date:** 2022-12-02
 
 ### Approving Minutes from the Executive Council's Special Meeting on 2022-09-16 
@@ -21,7 +21,7 @@ I move to approve the [minutes from the special meeting of the Executive Council
 
 **Maker:** Aleksandra Nenadic  
 **Second:** Yanina Bellini Saibene  
-**Voting:** Motion passed (7 yes, 0 no, 0 abstain)
+**Voting:** Motion passed (7 yes, 0 no, 0 abstain)  
 **Date:** 2022-12-02
 
 ### Approving the Conflict of Interest Declaration Form
@@ -30,7 +30,7 @@ I move to approve the Conflict of Interest Declaration Form for the members of t
 
 **Maker:** Sarah Stevens  
 **Second:** Aleksandra Nenadic  
-**Voting:** Motion passed (7 yes, 0 no, 0 abstain)
+**Voting:** Motion passed (7 yes, 0 no, 0 abstain)  
 **Date:** 2022-12-02
 
 ### Approving the Executive Council’s 2023 Work Plan
@@ -39,7 +39,7 @@ I move to approve the Executive Council’s 2023 Work Plan.
 
 **Maker:** Sarah Stevens  
 **Second:** John Chodacki  
-**Voting:** Motion passed (7 yes, 0 no, 0 abstain)
+**Voting:** Motion passed (7 yes, 0 no, 0 abstain)  
 **Date:** 2022-12-02
 
 ### Approving The Carpentries 2023 Budget
@@ -48,7 +48,7 @@ I move to approve The Carpentries FY2023 (Expense) Budget in the amount of $2,72
       
 **Maker:** Michael D. Smith  
 **Second:** Konrad Förstner  
-**Voting:** Motion passed (7 yes, 0 no, 0 abstain)
+**Voting:** Motion passed (7 yes, 0 no, 0 abstain)  
 **Date:** 2022-12-02
 
 ### Approving the Proposed Committee and Task Force Definition Updates in the Bylaws
@@ -57,7 +57,7 @@ I move to approve the [Bylaws updates on how committee and task forces are forme
  
 **Maker:** Aleksandra Nenadic  
 **Second:** Konrad Förstner  
-**Voting:** Motion passed (7 yes, 0 no, 0 abstain)
+**Voting:** Motion passed (7 yes, 0 no, 0 abstain)  
 **Date:** 2022-12-02
 
 ### Approving the Appointment of Abdulai Imoro to the Executive Council
