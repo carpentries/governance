@@ -3,6 +3,14 @@ The following file includes all motions passed during Executive Council meetings
 
 ## 2023 Motions
 
+### Approving Minutes from the Executive Council's Q4 Meeting on 2022-12-02
+
+I move to approve the minutes from the [Executive Council Quarterly (Q4) meeting on 2nd December 2022](https://github.com/carpentries/executive-council-info/blob/main/minutes/2022/EC-minutes-2022-12-02-Q4.md).
+
+**Maker:** Aleksandra Nenadic    
+**Second:** Yanina Bellini Saibene   
+**Voting:** Motion passed (8 yes, 0 no, 0 abstain)  
+**Date:** 2023-01-23
 
 ## 2022 Motions
 
