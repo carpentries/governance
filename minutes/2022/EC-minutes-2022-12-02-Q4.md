@@ -53,7 +53,7 @@
     * Worked on updates to the Committee and Task Force definitions in Bylaws and their respective policies in the Handbook
     * The Executive Council approved the [proposed Committee and Task Force definition updates in Bylaws](https://github.com/carpentries/docs.carpentries.org/pull/814):
         * **Motion:** I move to approve the Bylaws updates on how committee and task forces are formed and the corresponding policy updates to the Handbook. 
-          * **Maker:** Aleksandra Nenadic;** Second: **EC Member Konrad Forstner; **Voting:** motion passed (7 yes, 0 no, 0 abstain)
+          * **Maker:** Aleksandra Nenadic; **Second:** Konrad Forstner; **Voting:** motion passed (7 yes, 0 no, 0 abstain)
 
 ### Agenda Item 22/28: Updates from the Executive Director
 
