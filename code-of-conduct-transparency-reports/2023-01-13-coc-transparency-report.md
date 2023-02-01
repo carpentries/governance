@@ -35,5 +35,5 @@ This is a flowchart sketched by CoC committee member Karin Lagesen for internal 
     - Training Leads: as part of regular business meetings - scenario curation, training/reading material accumulation, CoC facilitators program - Karin Lagesen and Yo Yehudi
     - Onboarding and discussion Leads: Onboarding/offboarding and discussion on topics that come up in incident response or other interactions such as communication and cultural diversity situations, Indigenous data sharing - Andrea Sánchez Tapia and Malvika Sharan
   - The previous governance document was edited by Malvika to record these updates, which is pending approval from the committee member.
-  - Alycia Crall has scheduled the next meeting for a committee where we will discuss the operationalisation of these roles, the election of chairs and the finalisation of the governance document. 
+  - Alycia Crall has scheduled the next meeting for the committee where we will discuss the operationalisation of these roles, the election of chairs and the finalisation of the governance document. 
 - A separate draft was created by Malvika describing onboarding and offboarding processes -- information that can currently be found in the governance document: https://docs.carpentries.org/topic_folders/policies/coc-governance.html#onboarding-and-training.
