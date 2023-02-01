@@ -25,10 +25,10 @@ This is a flowchart sketched by CoC committee member Karin Lagesen for internal 
 ### Committee changes
 
 - Karen Cranston, the previous chair of governance stepped down after serving for several years in the CoC committe. She has contributed significantly to shaping and operationalising The Caarpentries CoC, and has been an extremely valuable member of the team. We thank her for her expertise, support and thoughtful service to The Carpentries community.
+- Kari Jordan, Executive Director, who is the current CoC Staff Liaison, has onboarded Alycia Crall, Director of Community, to take over this role in the coming weeks.
 
 ### Further relevant information
-
-- Kari Jordan, Dxecutive Director, who is our current Staff Liaison, has onboarded Alycia Crall, Director of Community, to on the role in the coming month. 
+ 
 - Previous chairs Malvika and Karen proposed the restructure of the CoC committee to create more defined roles for the committee members. 
   - Upon agreement with other committee members, a survey and call for interest from within the committee was invited, following which a new set of roles will be assumed as listed below:
     - Incident Response Leads: Facilitate report handling, identify chairs and Incident response group, co-draft transparency report - D. Sarah Stamps, Lora Leligdon and Jonathan Stoneman
