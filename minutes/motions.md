@@ -3,6 +3,24 @@ The following file includes all motions passed during Executive Council meetings
 
 ## 2023 Motions
 
+### Edits to language in the by-laws based on previous policy changes
+
+[#861](https://github.com/carpentries/docs.carpentries.org/pull/861) - Updates the [Lesson Programs](https://docs.carpentries.org/topic_folders/governance/lesson-program-policy.html#lesson-programs) section of the bylaws  
+ - Changes "Service to a particular audience of learners and instructors" to "Service to a particular audience of learners" (removes the words "and instructors" from the phrase)
+
+This change has already been approved and merged into the lesson program policy (PR). The above PR is in the bylaws and requires a vote.
+
+
+[#884](https://github.com/carpentries/docs.carpentries.org/pull/884) - Motion adds COI to bylaws. The EC already voted and approved the COI form and the process to fill it, but need  vote on the text to add this new obligation of the EC members to the bylaws.
+
+
+**I move to approve these two changes on the bylaw.**
+
+**Maker:** Yanina Bellini Saibene   
+**Second:** John Chodacki    
+**Voting:** Motion passed (8 yes, 0 no, 0 abstain)  
+**Date:** 2023-03-27
+
 ### Approving Minutes from the Executive Council's Q4 Meeting on 2022-12-02
 
 I move to approve the minutes from the [Executive Council Quarterly (Q4) meeting on 2nd December 2022](https://github.com/carpentries/executive-council-info/blob/main/minutes/2022/EC-minutes-2022-12-02-Q4.md).
