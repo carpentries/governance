@@ -3,18 +3,15 @@ The following file includes all motions passed during Executive Council meetings
 
 ## 2023 Motions
 
-### Removing the word "instructors" from a phrase in the bylaws
-At the last governance committee meeting, we reviewed two open PRs 
-that amend our bylaws.
-
+### Edits to language in the by-laws based on previous policy changes
 
 [#861](https://github.com/carpentries/docs.carpentries.org/pull/861) - Updates the [Lesson Programs](https://docs.carpentries.org/topic_folders/governance/lesson-program-policy.html#lesson-programs) section of the bylaws  
- - Changes Service to a particular audience of learners and instructors to Service to a particular audience of learners (removes the words "and instructors" from the phrase)
+ - Changes "Service to a particular audience of learners and instructors" to "Service to a particular audience of learners" (removes the words "and instructors" from the phrase)
 
 This change has already been approved and merged into the lesson program policy (PR). The above PR is in the bylaws and requires a vote.
 
 
-[#884](https://github.com/carpentries/docs.carpentries.org/pull/884) - Motion adds COI to bylaws. It requires a vote because we already voted and approved the COI form and the process to fill it, but we didn't vote on the text to add this new obligation of the EC members to the bylaws.
+[#884](https://github.com/carpentries/docs.carpentries.org/pull/884) - Motion adds COI to bylaws. The EC already voted and approved the COI form and the process to fill it, but need  vote on the text to add this new obligation of the EC members to the bylaws.
 
 
 **I move to approve these two changes on the bylaw.**
