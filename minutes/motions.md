@@ -3,6 +3,17 @@ The following file includes all motions passed during Executive Council meetings
 
 ## 2023 Motions
 
+### Approval of the Executive Director Succession Plan
+
+This is a motion to approve the policy around hiring an interim Exec Director and search for a new Exec Director
+
+**I move to approve the Executive Director Succession Plan for The Carpentries.**
+
+**Maker:** John ChodackiYanina Bellini Saibene   
+**Second:** Yanina Bellini Saibene     
+**Voting:** Motion passed (9 yes, 0 no, 0 abstain)  
+**Date:** 2023-04-21
+
 ### Edits to language in the by-laws based on previous policy changes
 
 [#861](https://github.com/carpentries/docs.carpentries.org/pull/861) - Updates the [Lesson Programs](https://docs.carpentries.org/topic_folders/governance/lesson-program-policy.html#lesson-programs) section of the bylaws  
