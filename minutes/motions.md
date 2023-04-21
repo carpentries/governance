@@ -7,7 +7,7 @@ The following file includes all motions passed during Executive Council meetings
 
 This is a motion to approve Dec 2022 Special Election Meeting Minutes and of the Q1 2023 Meeting Minutes.
 
-**I move to approve the  Dec 2022 Special Election Meeting Minutes and of the Q1 2023 Meeting Minutes.**
+**I move to approve the Dec 2022 Special Election Meeting Minutes and the Q1 2023 Meeting Minutes.**
 
 **Maker:** Sarah Stevens  
 **Second:** John Chodacki       
