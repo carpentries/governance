@@ -3,6 +3,18 @@ The following file includes all motions passed during Executive Council meetings
 
 ## 2023 Motions
 
+### Approval Dec 2022 Special Election Meeting Minutes and of the Q1 2023 Meeting Minutes
+
+This is a motion to approve Dec 2022 Special Election Meeting Minutes and of the Q1 2023 Meeting Minutes.
+
+**I move to approve the  Dec 2022 Special Election Meeting Minutes and of the Q1 2023 Meeting Minutes.**
+
+**Maker:** Sarah Stevens  
+**Second:** John Chodacki       
+**Voting:** Motion passed (8 yes, 0 no, 0 abstain)  
+**Date:** 2023-04-21
+
+
 ### Approval of the Executive Director Succession Plan
 
 This is a motion to approve the policy around hiring an interim Exec Director and search for a new Exec Director
