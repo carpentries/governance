@@ -9,7 +9,7 @@ This is a motion to approve the policy around hiring an interim Exec Director an
 
 **I move to approve the Executive Director Succession Plan for The Carpentries.**
 
-**Maker:** John Chodacki
+**Maker:** John Chodacki  
 **Second:** Yanina Bellini Saibene     
 **Voting:** Motion passed (9 yes, 0 no, 0 abstain)  
 **Date:** 2023-04-21
