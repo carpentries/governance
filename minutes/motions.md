@@ -3,7 +3,7 @@ The following file includes all motions passed during Executive Council meetings
 
 ## 2023 Motions
 
-### Approval Dec 2022 Special Election Meeting Minutes and of the Q1 2023 Meeting Minutes
+### Approval of the Dec 2022 Special Election Meeting Minutes and the Q1 2023 Meeting Minutes
 
 This is a motion to approve Dec 2022 Special Election Meeting Minutes and the Q1 2023 Meeting Minutes.
 
