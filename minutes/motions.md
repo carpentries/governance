@@ -11,7 +11,7 @@ This is a motion to approve the policy around hiring an interim Exec Director an
 
 **Maker:** John Chodacki  
 **Second:** Yanina Bellini Saibene     
-**Voting:** Motion passed (9 yes, 0 no, 0 abstain)  
+**Voting:** Motion passed (8 yes, 0 no, 0 abstain)  
 **Date:** 2023-04-21
 
 ### Edits to language in the by-laws based on previous policy changes
