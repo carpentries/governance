@@ -12,30 +12,27 @@ For a description of the different Standing Committees, see [the Carpentries' Ha
 Members of the committees for the 2022 Executive Council are listed below.
 
 ### [Officers Committee](https://docs.carpentries.org/topic_folders/governance/executive-council.html?#officers-committee)
-* Sarah Stevens (Chair)
-* Konrad Förstner (Vice Chair)
+* Konrad Förstner (Chair)
+* John Chodacki (Vice Chair)
 * Michael Smith (Treasurer) 
-* Aleksandra Nenadic (Secretary)
+* Sarah Stevens (Secretary)
 
 ### [Governance Committee](https://docs.carpentries.org/topic_folders/governance/executive-council.html?#governance-committee)
-* Konrad Förstner (Committee Chair)
+* John Chodacki (Committee Chair)
+* Nisha Ghatak
 * Annajiat Alim Rasel
 * Yanina Bellini Saibene
 
 ### [Finance Committee](https://docs.carpentries.org/topic_folders/governance/executive-council.html?#finance-committee)
 * Michael Smith (Committee Chair)
-* John Chodacki
-* Masami Yamaguchi
-
-### [Communications Committee](https://docs.carpentries.org/topic_folders/governance/executive-council.html?#communications-committee)
-* Masami Yamaguchi (Committee Chair)
-* Yanina Bellini Saibene
-* Omar Khan (Core Team member)
+* Abdulai Imoro
+* Jannetta Steyn
 
 ### [Program Committee](https://docs.carpentries.org/topic_folders/governance/executive-council.html?#program-committee)
-* Aleksandra Nenadic (Committee Chair) 
-* Annajiat Alim Rasel
+* Yanina Bellini Saibene (Committee Chair) 
+* Nisha Ghatak
 * Sarah Stevens
+* Jannetta Steyn
 
 ## Executive Council Documentation
 Documentiation on the workings of the Executive Council can be found 
