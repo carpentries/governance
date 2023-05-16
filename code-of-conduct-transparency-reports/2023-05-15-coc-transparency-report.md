@@ -27,7 +27,12 @@ There were <number of reports, 'NO' when none> policy changes.
 
 - <number of reports, 'NO' when none> members stepped down from (or joined) the committee.
 <!-- Provide details -->
+- chair?
 
 ### Further relevant information
 
 <!-- Provide details of noteworthy news or update that should be captured -->
+- Translation?
+- Archival of repos?
+- Documentation updates?
+- Training?
