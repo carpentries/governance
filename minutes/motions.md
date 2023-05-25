@@ -3,6 +3,18 @@ The following file includes all motions passed during Executive Council meetings
 
 ## 2023 Motions
 
+# Approval of 2023 Executive Council Standing Committee Charters
+
+This is a motion to approve the 2023 Executive Council Standing Committee Charters.
+
+**I move to approve the EC standing committee charters for 2023.**
+
+**Maker:** Konrad Förstner
+**Second:** Sarah Stevens
+**Voting:** The motion passes by consensus
+**Date:** 2023-05-11
+
+
 ### Approval of the Dec 2022 Special Election Meeting Minutes and the Q1 2023 Meeting Minutes
 
 This is a motion to approve Dec 2022 Special Election Meeting Minutes and the Q1 2023 Meeting Minutes.
