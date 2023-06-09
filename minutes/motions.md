@@ -3,6 +3,17 @@ The following file includes all motions passed during Executive Council meetings
 
 ## 2023 Motions
 
+### Approval of the Q2 2023 Meeting Minutes
+
+This is a motion to approve Q2 2023 Meeting Minutes.
+
+**I move to approve the Q2 2023 Meeting Minutes.**
+
+**Maker:** Sarah Stevens  
+**Second:** Yanina Bellini Saibene      
+**Voting:** Motion passed (8 yes, 0 no, 0 abstain)  
+**Date:** 2023-06-04
+
 # Approval of 2023 Executive Council Standing Committee Charters
 
 This is a motion to approve the 2023 Executive Council Standing Committee Charters.
