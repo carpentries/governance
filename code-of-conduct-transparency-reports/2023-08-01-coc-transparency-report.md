@@ -20,7 +20,8 @@ There were NO police matters.
 ### Policy changes
 
 There were <number of reports, 'NO' when none> policy changes.  
-<!-- Provide details -->
+- The Code of Conduct Committee Governance document was updated to clarify the composition of Incident Reporting Groups, voting rights of committee members, as well as communication and day-to-day operation norms of the committee. 
+- The Onboarding Procedures for New Members document was updated (more details needed here)
  
 ### Committee changes
 
