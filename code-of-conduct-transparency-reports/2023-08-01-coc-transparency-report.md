@@ -1,15 +1,6 @@
-## Code of Conduct Transparency Reports
-
-This directory includes Code of Conduct Transparency reports. Full information
-on our Code of Conduct, Reporting Guidelines and Enforcement Manual can be
-found in [The Carpentries handbook](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
-
-### Please use this template to draft Transparency Reports
-
-```
 # The Carpentries Code of Conduct Transparency Report
 
-yyyy-mm-dd
+2023-08-01
 
 ## Overview
 
@@ -24,8 +15,7 @@ There was <number of reports, 'NO' when none> report of an incident.
 
 ### Summary of Police Matters
 
-There were <number of reports, 'NO' when none> police matters.
-<!-- Provide details where necessary -->
+There were NO police matters.
 
 ### Policy changes
 
@@ -40,5 +30,3 @@ There were <number of reports, 'NO' when none> policy changes.
 ### Further relevant information
 
 <!-- Provide details of noteworthy news or update that should be captured -->
-
-```
