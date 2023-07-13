@@ -6,7 +6,7 @@
 
 ### Reports
 
-Between yyyy-mm-dd and yyyy-mm-dd, the Code of Conduct committee processed <number of reports, 'NO' when none> formal incident report. 
+Between 2023-05-25 and yyyy-mm-dd, the Code of Conduct committee processed <number of reports, 'NO' when none> formal incident report. 
 
 ### Potential Code of Conduct Breaches
 
