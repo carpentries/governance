@@ -6,7 +6,7 @@
 
 ### Reports
 
-Between 2023-05-25 and 2023-08-02, the Code of Conduct committee processed NO formal incident reports. 
+Between 2023-05-25 and 2023-08-01, the Code of Conduct committee processed NO formal incident reports. 
 
 ### Potential Code of Conduct Breaches
 
