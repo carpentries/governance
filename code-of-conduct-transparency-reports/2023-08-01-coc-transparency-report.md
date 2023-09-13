@@ -1,6 +1,6 @@
 # The Carpentries Code of Conduct Transparency Report
 
-2023-08-02
+2023-08-01
 
 ## Overview
 
