@@ -1,6 +1,6 @@
 # The Carpentries Yearly Governance Report 
 
-This folder contains a yearly summary of The Carpentries governance* activities.
+This folder contains a yearly summary of The Carpentries governance* activities. Yearly reports are published in January using the [report template](https://github.com/carpentries/executive-council-info/blob/kariljordan-patch-2/year-in-review/report-template.md).
 
 The Carpentries is a fiscally sponsored project of [Community Initiatives](http://communityin.org/), a registered 501(c)(3) non-profit based in California, USA. The Carpentries is transitioning out of fiscal sponsorship to an independent 501(c)(3) non-profit organisation ([learn more](https://carpentries.org/files/pdf/Fiscal_Sponsorship_Transition_FAQ.pdf)). For that reason, the organisation has two governing bodies.
 
