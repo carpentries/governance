@@ -1,4 +1,4 @@
-# The Carpentries Yearly Governance Report 
+# The Carpentries Yearly Governance Reports
 
 This folder contains a yearly summary of The Carpentries governance* activities. Yearly reports are published in January using the [report template](https://github.com/carpentries/executive-council-info/blob/kariljordan-patch-2/year-in-review/report-template.md).
 
