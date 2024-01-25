@@ -1,5 +1,5 @@
 # About
-The following file includes all motions passed during Executive Council meetings from 2022 and onward. To see motions passed in previous meetings, navigate to the [minutes](https://github.com/carpentries/executive-council-info/tree/main/minutes) from the previous years. This file is updated quarterly based on the minutes of the quarterly Executive Council meetings.
+The following file includes all motions passed during Executive Council meetings from 2022 to 2023. To see motions passed in previous meetings, navigate to the [minutes](https://github.com/carpentries/executive-council-info/tree/main/minutes) from the previous years. This file is updated quarterly based on the minutes of the quarterly Executive Council meetings.
 
 ## 2023 Motions
 
