@@ -1,5 +1,11 @@
-# Executive Council Yearly Summaries
+# The Carpentries Yearly Governance Reports
 
-These documents include a list of the Executive Council Members (and officers) for each year, as well as a summary of the major activities accomplished by each Executive Council.
+This folder contains a yearly summary of The Carpentries governance* activities. Yearly reports are published in January using the [report template](https://github.com/carpentries/executive-council-info/blob/kariljordan-patch-2/year-in-review/report-template.md).
 
-"Elected" references Community-elected members, while "Appointed" refers to Council-elected members. The dates in each document reference only the current term in which the member is serving (some individuals serve multiple terms).
+The Carpentries is a fiscally sponsored project of [Community Initiatives](http://communityin.org/), a registered 501(c)(3) non-profit based in California, USA. The Carpentries is transitioning out of fiscal sponsorship to an independent 501(c)(3) non-profit organisation ([learn more](https://carpentries.org/files/pdf/Fiscal_Sponsorship_Transition_FAQ.pdf)). For that reason, the organisation has two governing bodies.
+
+Governance of The Carpentries (a fiscally sponsored project of Community Initiatives) is undertaken by a three-person Advisory Committee. Governance of The Carpentries, Inc. (501(c)(3)  non-profit organisation) is undertaken by the Board of Directors. The Board comprises 11 persons, either members of The Carpentries community or from external communities brought in for specific expertise. At least one-third of the Board members are elected by the Carpentries community.
+
+For more information regarding The Carpentries governance, visit the [Governance page of The Carpentries website](https://carpentries.org/governance/).
+
+_*Before 2024, The Carpentries was governed by a nine-person Executive Council._
