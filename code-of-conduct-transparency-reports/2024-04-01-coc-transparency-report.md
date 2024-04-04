@@ -18,17 +18,16 @@ There were NO police matters.
 
 ### Policy changes
 
-There were <number of reports, 'NO' when none> policy changes.  
-<!-- Provide details -->
+There were NO policy changes.  
+
  
 ### Committee changes
 
-- <number of reports, 'NO' when none> members stepped down from (or joined) the committee.
-<!-- Provide details -->
+- NO members stepped down from (or joined) the committee.
 
 ### Further relevant information
 
-* The Code of Conduct committee conducted a mock training scenario virtually on 2023-03-18 that was completed via Slack. 
-* An incident from 2021 that was not formally resolved was brought up to the committee by email from the reportee for further action.
+* The Code of Conduct committee virtually conducted a mock training scenario on 2024-03-18 that was completed via Slack. 
+* An incident from 2021 that still needs to be formally resolved was brought up to the committee by email from the reportee for further action.
   It was decided that the reportee is welcome in the community and can instruct after retaking training.
   Two emails were sent to the reportee by the Chair of the Code of Conduct Committee with no response from the reportee. 
