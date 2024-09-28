@@ -22,7 +22,7 @@ There were NO policy changes.
  
 ### Committee changes
 
-2 new members joined the committee and were successfully onboarded by Malvika Sharan and Andrea Sánchez Tapia. The 2 new members are:
+3 new members joined the committee and were successfully onboarded by Malvika Sharan and Andrea Sánchez Tapia. The 3 new members are:
 * Jean Baptiste Fankam Fankam
 * Patti McCall-Junkin
 * Jannetta Steyn joined the committee as a new liaison to the Board of Directors.
