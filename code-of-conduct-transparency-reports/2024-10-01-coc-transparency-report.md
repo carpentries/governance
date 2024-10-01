@@ -18,8 +18,9 @@ There were NO police matters.
 
 ### Policy changes
 
-There was 1 policy change.  
+There were 2 policy changes.  
 * Minor changes were made to the flow chart for responding to incident reports.
+* The Carpentries Handbook was updated to clarify language about reporting CoC incidents to human resources in the case of harassment.
  
 ### Committee changes
 
