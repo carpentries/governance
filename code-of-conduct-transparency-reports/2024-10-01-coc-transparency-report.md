@@ -6,7 +6,7 @@
 
 ### Reports
 
-Between 2024-07-02 and 2024-10-01, the Code of Conduct committee processed NO formal incident report. 
+Between 2024-07-02 and 2024-10-01, the Code of Conduct committee processed NO formal incident reports. 
 
 ### Potential Code of Conduct Breaches
 
