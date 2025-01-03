@@ -1,7 +1,7 @@
 # Board of Directors Meeting Minutes for August 15, 2024
 
 ## Present on August 15 2024
-Erin Becker, Sarah Stevens, Jannetta Styne, Yani Bellini Saibene, Konrad Förstner, Kari Jordan, Nisha Ghatak, John Chodacki, Michael Smith, Mark Crowe, Pao Corrales, Eboni Dotson
+Erin Becker, Sarah Stevens, Jannetta Steyn, Yani Bellini Saibene, Konrad Förstner, Kari L. Jordan, Nisha Ghatak, John Chodacki, Michael Smith, Mark Crowe, Pao Corrales, Eboni Dotson
 
 ## Apologies
 None
