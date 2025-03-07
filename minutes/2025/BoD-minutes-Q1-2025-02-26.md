@@ -12,10 +12,6 @@ Eboni
 
 ### Call to Order
 
-### Approve Previous Meeting Minutes
-
-Maker: [Add name here], Seconded: [Add name here], Voting: Approved by consensus
-
 ### Review 2024 Q4 Financial Report - Erin Becker
 * 2024 Financials  
   * Q3 and Q4 grant breakdowns for comparison  
