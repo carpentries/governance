@@ -2,7 +2,7 @@
 
 ## **Present on 2025-05-22**: 
 
-Samantha, Erin, Yani, Pao, Jannetta, Kari, Stephanie, Luke, Mark, Nisha, Yo, Danielle, Eboni
+Samantha, Erin, Yani, Pao, Jannetta, Kari, Stephanie, Luke, Mark, Nisha, Yo, Danielle, Eboni, Phil
 
 ## **Apologies**: 
 
