@@ -163,4 +163,3 @@ None recorded.
 
 ### Adjournment
 
-###  [Add name here] at [Time]
