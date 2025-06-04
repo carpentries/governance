@@ -57,7 +57,7 @@ None recorded.
         * Important to keep a dual strategy where you still remain in the US for funding reasons  
         * of an org doing similar work that  
     * Important but not urgent \- still focusing on funding  
-      * In your committees please continue to discuss, add links/comments to t[he doc](https://docs.google.com/document/d/1J71PsSJKIK8u25oPdvGTZTNje0uCzmH50cjXPqU6XgQ/edit?tab=t.0). Let Kari know if there are other people Kari should be speaking to when considering this work  
+      * In your committees please continue to discuss, add links/comments to [the doc](https://docs.google.com/document/d/1J71PsSJKIK8u25oPdvGTZTNje0uCzmH50cjXPqU6XgQ/edit?tab=t.0). Let Kari know if there are other people Kari should be speaking to when considering this work  
   * Evaluation Plan for Transitioning out of Fiscal Sponsorship  
     * There was a lot we couldn’t do as a fiscally sponsored project  
     * Important to find out if what we intended to happen did happen  
