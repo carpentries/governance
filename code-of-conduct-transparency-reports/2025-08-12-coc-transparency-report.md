@@ -6,28 +6,24 @@
 
 ### Reports
 
-Between yyyy-mm-dd and yyyy-mm-dd, the Code of Conduct committee processed <number of reports, 'NO' when none> formal incident report. 
+Between 2024-10-01 and 2025-08-12, the Code of Conduct committee processed 1 formal incident report. 
 
 ### Potential Code of Conduct Breaches
 
-There was <number of reports, 'NO' when none> report of an incident.
-<!-- Provide details -->
+One report was made in June 2025. This report is still under investigation by the code of conduct committee.
 
 ### Summary of Police Matters
 
-There were <number of reports, 'NO' when none> police matters.
-<!-- Provide details where necessary -->
+There were NO police matters.
+
 
 ### Policy changes
 
-There were <number of reports, 'NO' when none> policy changes.  
-<!-- Provide details -->
+There were NO policy changes.  
+
  
 ### Committee changes
 
-- <number of reports, 'NO' when none> members stepped down from (or joined) the committee.
-<!-- Provide details -->
+- Sarah Stamps temporarily stepped down from the committee due to sabattical from January to June 2025; Yo Yehudi was acting chair in her stead. 
 
-### Further relevant information
 
-<!-- Provide details of noteworthy news or update that should be captured -->
