@@ -13,4 +13,4 @@ Please see the meeting notes in the [minutes folder](minutes/).
 
 ## Motions
 Motions from 2022-2023 are included in [meeting minutes](#minutes-for-meetings). A 
-[rolling document containing all the motions](https://docs.google.com/spreadsheets/d/11PNpJGi2a2fdMxMH7mq0T5MvYzUJcewW/edit?gid=1586447435#gid=1586447435)) since July 2023 is available to the public. 
+[rolling document containing all the motions](https://docs.google.com/spreadsheets/d/11PNpJGi2a2fdMxMH7mq0T5MvYzUJcewW/edit?gid=1586447435#gid=1586447435) since July 2023 is available to the public. 
