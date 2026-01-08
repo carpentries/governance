@@ -12,5 +12,5 @@ in [the handbook](https://docs.carpentries.org/topic_folders/governance/).
 Please see the meeting notes in the [minutes folder](minutes/).  
 
 ## Motions
-Motions from 2022-2023 are included in [meeting minutes](#minutes-for-meetings) as well as in a separate 
-[rolling document containing all the motions](minutes/motions.md) since 2022. Until 2022, the motions were written in minutes and as issues on this repository.
+Motions from 2022-2023 are included in [meeting minutes](#minutes-for-meetings). A 
+[rolling document containing all the motions]([minutes/motions.md](https://docs.google.com/spreadsheets/d/11PNpJGi2a2fdMxMH7mq0T5MvYzUJcewW/edit?gid=1586447435#gid=1586447435)) since July 2023 is available to the public. 
