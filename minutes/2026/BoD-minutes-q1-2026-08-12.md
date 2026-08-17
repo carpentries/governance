@@ -4,7 +4,7 @@
 
 * **Date:** 12 August 2026
 * **Facilitator:** Phil
-* **Note-takers:** Luke and Kari
+* **Note-takers:** Luke, Kari and Yani
 
 ## Attendance
 
